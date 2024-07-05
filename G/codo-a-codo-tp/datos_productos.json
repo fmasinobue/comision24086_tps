@@ -1,0 +1,142 @@
+[
+    {
+        "articulo": "Motherboard ASUS",
+        "categoria": "Hardware",
+        "descripcion": "Tarjeta madre AMD AM4 uATX con iluminacion LED, DDR4 3200MHz, 32Gb/s M.2, HDMI, SATA 6Gb/s, USB 3.0.",
+        "precio": 73000,
+        "stock": 5
+    },
+    {
+        "articulo": "Disco SSD 480GB",
+        "categoria": "Hardware",
+        "descripcion": "WD Green\u00e2\u201e\u00a2 SATA SSD 2,5 pulgadas/7 mm con carcasa",
+        "precio": 37000,
+        "stock": 10
+    },
+    {
+        "articulo": "Procesador Ryzen 5",
+        "categoria": "Hardware",
+        "descripcion": "AMD Ryzen 5 5600G 4.4 Ghz AM4",
+        "precio": 120000,
+        "stock": 6
+    },
+    {
+        "articulo": "RAM 16GB",
+        "categoria": "Hardware",
+        "descripcion": "Memoria Ram Kingston Fury Beast 16GB 3200 Mhz DDR4",
+        "precio": 45000,
+        "stock": 8
+    },
+    {
+        "articulo": "Disco HDD 2TB",
+        "categoria": "Hardware",
+        "descripcion": "Disco Duro Interno Western Digital Wd20ezaz 2tb Azul",
+        "precio": 65000,
+        "stock": 12
+    },
+    {
+        "articulo": "Monitor 24\"",
+        "categoria": "Perifericos",
+        "descripcion": "LG UltraGear 23.8\" 165 Hz Gaming Monitor",
+        "precio": 100000,
+        "stock": 6
+    },
+    {
+        "articulo": "Teclado mecanico",
+        "categoria": "Perifericos",
+        "descripcion": "Teclado Gamer Redragon Shiva K512 Rgb Espa\u00c3\u00b1ol Latino",
+        "precio": 45000,
+        "stock": 10
+    },
+    {
+        "articulo": "Mouse inalambrico",
+        "categoria": "Perifericos",
+        "descripcion": "Mouse Inalambrico Logitech M240 Silent Negro Graphite",
+        "precio": 25000,
+        "stock": 10
+    },
+    {
+        "articulo": "Auriculares inalambricos",
+        "categoria": "Perifericos",
+        "descripcion": "Auricular HyperX Cloud Stinger Core 2 Black",
+        "precio": 54000,
+        "stock": 10
+    },
+    {
+        "articulo": "Webcam C920S",
+        "categoria": "Perifericos",
+        "descripcion": "Camara Web Logitech C920e Full Hd 30fps Color Negro",
+        "precio": 100000,
+        "stock": 7
+    },
+    {
+        "articulo": "Mousepad",
+        "categoria": "Accesorios",
+        "descripcion": "Mouse Pad Gamer Corsair Mm300 De Tela M 300mm X 360mm X 3mm Black/gray",
+        "precio": 30000,
+        "stock": 20
+    },
+    {
+        "articulo": "Pendrive 128GB",
+        "categoria": "Accesorios",
+        "descripcion": "Memoria Flash Usb Kingston 128 Gb 3.2 Exodia Onix Negra",
+        "precio": 10000,
+        "stock": 25
+    },
+    {
+        "articulo": "Soporte para auriculares",
+        "categoria": "Accesorios",
+        "descripcion": "Soporte Para Auriculares Stand Headset Gamer Office",
+        "precio": 9000,
+        "stock": 5
+    },
+    {
+        "articulo": "Tira Led RGB",
+        "categoria": "Accesorios",
+        "descripcion": "Kit Tira Luz Led Rgb 3m 5050 Tv Pc Control Remoto Exterior",
+        "precio": 4500,
+        "stock": 6
+    },
+    {
+        "articulo": "Base para notebook",
+        "categoria": "Accesorios",
+        "descripcion": "Soporte Base Notebook Laptop Macbook Pro Air Ergonomico",
+        "precio": 4500,
+        "stock": 3
+    },
+    {
+        "articulo": "Joystick XBOX",
+        "categoria": "Gaming",
+        "descripcion": "Joystick Microsoft Xbox Nueva Generacion Robot White Color Blanco",
+        "precio": 110000,
+        "stock": 6
+    },
+    {
+        "articulo": "Joystick PS5",
+        "categoria": "Gaming",
+        "descripcion": "Joystick Ps5 Inalambrico Sony Playstation 5 Dualsense Blanco",
+        "precio": 137000,
+        "stock": 6
+    },
+    {
+        "articulo": "Nintendo Switch",
+        "categoria": "Gaming",
+        "descripcion": "Nintendo Switch Oled 64gb Standard Color Rojo Ne\u00c3\u00b3n, Azul Neon Y Negro",
+        "precio": 540000,
+        "stock": 3
+    },
+    {
+        "articulo": "Playstation 5",
+        "categoria": "Gaming",
+        "descripcion": "Sony Playstation 5 825gb Extra Dualsense Wireless Controller Bundle Color Blanco Y Negro",
+        "precio": 1400000,
+        "stock": 4
+    },
+    {
+        "articulo": "Steam Deck",
+        "categoria": "Gaming",
+        "descripcion": "Consola Valve Steam Deck 64gb Standard Color Negro",
+        "precio": 1000000,
+        "stock": 3
+    }
+]

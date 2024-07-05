@@ -1,0 +1,3460 @@
+[
+    {
+        "Codigo": 1,
+        "Nombre": "ABRAZADERA AMERIC",
+        "Marca": " CARBIZ",
+        "Cantidad": 5,
+        "Precio": 200
+    },
+    {
+        "Codigo": 2,
+        "Nombre": "ABRAZADERA",
+        "Marca": "CRECCHIO",
+        "Cantidad": 2,
+        "Precio": 507
+    },
+    {
+        "Codigo": 3,
+        "Nombre": "ACEITE SOLUBLE",
+        "Marca": "TF3",
+        "Cantidad": 5,
+        "Precio": 6
+    },
+    {
+        "Codigo": 4,
+        "Nombre": "ACEITE MULTIUSO",
+        "Marca": "TF3",
+        "Cantidad": 8,
+        "Precio": 624
+    },
+    {
+        "Codigo": 5,
+        "Nombre": "ACOPLE COMPRESION",
+        "Marca": "DUKE",
+        "Cantidad": 10,
+        "Precio": 2.331
+    },
+    {
+        "Codigo": 6,
+        "Nombre": "ADAPTADOR",
+        "Marca": "SIDERAL",
+        "Cantidad": 5,
+        "Precio": 16.352
+    },
+    {
+        "Codigo": 7,
+        "Nombre": "ADAPTADOR SOPLETE",
+        "Marca": "ALIGAS",
+        "Cantidad": 7,
+        "Precio": 2.654
+    },
+    {
+        "Codigo": 8,
+        "Nombre": "ADHESIVO P/PVC",
+        "Marca": "DUKE",
+        "Cantidad": 6,
+        "Precio": 2.225
+    },
+    {
+        "Codigo": 9,
+        "Nombre": "ADHESIVO PVC",
+        "Marca": "TF3",
+        "Cantidad": 3,
+        "Precio": 1.494
+    },
+    {
+        "Codigo": 10,
+        "Nombre": "ALAMBRE NEGRO ATA",
+        "Marca": "ACINDAR",
+        "Cantidad": 11,
+        "Precio": 4.47
+    },
+    {
+        "Codigo": 11,
+        "Nombre": "ALAMBR GALV ATADO",
+        "Marca": "ACINDAR",
+        "Cantidad": 4,
+        "Precio": 5.145
+    },
+    {
+        "Codigo": 12,
+        "Nombre": "ALAMBRE REVESTIDO",
+        "Marca": "TENSIL",
+        "Cantidad": 10,
+        "Precio": 218
+    },
+    {
+        "Codigo": 13,
+        "Nombre": "ALMBRE ENFARDAR",
+        "Marca": "ACINDAR",
+        "Cantidad": 11,
+        "Precio": 4.323
+    },
+    {
+        "Codigo": 14,
+        "Nombre": "ALAMBRE ESPIRAL",
+        "Marca": "ALEX",
+        "Cantidad": 7,
+        "Precio": 1.152
+    },
+    {
+        "Codigo": 15,
+        "Nombre": "ALAMBRE GAL",
+        "Marca": "ACINDAR",
+        "Cantidad": 6,
+        "Precio": 4.551
+    },
+    {
+        "Codigo": 16,
+        "Nombre": "ALAMBRE NEGRO",
+        "Marca": "ACINDAR",
+        "Cantidad": 4,
+        "Precio": 4.047
+    },
+    {
+        "Codigo": 17,
+        "Nombre": "ALAMBRE P/SOLDADU",
+        "Marca": "SIDERAL",
+        "Cantidad": 6,
+        "Precio": 6.844
+    },
+    {
+        "Codigo": 18,
+        "Nombre": "ALCOHOL ISOPROPIL",
+        "Marca": "KUWAIT",
+        "Cantidad": 8,
+        "Precio": 3.775
+    },
+    {
+        "Codigo": 19,
+        "Nombre": "ESMALTE AEROSOL",
+        "Marca": "KUWAIT",
+        "Cantidad": 7,
+        "Precio": 2.815
+    },
+    {
+        "Codigo": 20,
+        "Nombre": "ALICATE C/OBL",
+        "Marca": "METZ",
+        "Cantidad": 8,
+        "Precio": 5.659
+    },
+    {
+        "Codigo": 21,
+        "Nombre": "ALICATE",
+        "Marca": "METZ",
+        "Cantidad": 9,
+        "Precio": 6.825
+    },
+    {
+        "Codigo": 22,
+        "Nombre": "ALICATE NIV",
+        "Marca": "METZE",
+        "Cantidad": 11,
+        "Precio": 8.193
+    },
+    {
+        "Codigo": 25,
+        "Nombre": "ANDAMIO",
+        "Marca": "DUROLL",
+        "Cantidad": 11,
+        "Precio": 274.905
+    },
+    {
+        "Codigo": 26,
+        "Nombre": "ANTIOXIDO AEROSOL",
+        "Marca": "KUWAIT",
+        "Cantidad": 2,
+        "Precio": 4.328
+    },
+    {
+        "Codigo": 27,
+        "Nombre": "ANTIOXIDO",
+        "Marca": "PREMIER",
+        "Cantidad": 10,
+        "Precio": 4.736
+    },
+    {
+        "Codigo": 28,
+        "Nombre": "ARANDELA",
+        "Marca": "BIANCO",
+        "Cantidad": 10,
+        "Precio": 179
+    },
+    {
+        "Codigo": 29,
+        "Nombre": "ARANDELA GROWER",
+        "Marca": "PROLL",
+        "Cantidad": 4,
+        "Precio": 8.177
+    },
+    {
+        "Codigo": 30,
+        "Nombre": "ARCO EMP/CERRADA",
+        "Marca": "TOTH",
+        "Cantidad": 3,
+        "Precio": 8.592
+    },
+    {
+        "Codigo": 31,
+        "Nombre": "ARCO FIJO",
+        "Marca": "TOTH",
+        "Cantidad": 7,
+        "Precio": 6.325
+    },
+    {
+        "Codigo": 32,
+        "Nombre": "ASIENTO INODORO",
+        "Marca": "MTZ",
+        "Cantidad": 10,
+        "Precio": 7.029
+    },
+    {
+        "Codigo": 33,
+        "Nombre": "AZADA",
+        "Marca": "GHERARDI",
+        "Cantidad": 6,
+        "Precio": 27.285
+    },
+    {
+        "Codigo": 34,
+        "Nombre": "AZADA CARPIR",
+        "Marca": "FERCAS",
+        "Cantidad": 3,
+        "Precio": 7.918
+    },
+    {
+        "Codigo": 35,
+        "Nombre": "BALDE",
+        "Marca": "HERNANPLAS",
+        "Cantidad": 5,
+        "Precio": 1.525
+    },
+    {
+        "Codigo": 36,
+        "Nombre": "BANDA",
+        "Marca": "DOBLE A",
+        "Cantidad": 5,
+        "Precio": 30.411
+    },
+    {
+        "Codigo": 37,
+        "Nombre": "BANDEJA PINTOR",
+        "Marca": "CRECCHIO",
+        "Cantidad": 9,
+        "Precio": 1.173
+    },
+    {
+        "Codigo": 38,
+        "Nombre": "BARBIJO",
+        "Marca": "MASKE",
+        "Cantidad": 2,
+        "Precio": 30
+    },
+    {
+        "Codigo": 39,
+        "Nombre": "BARNIZ AEROSOL",
+        "Marca": "KUWAIT",
+        "Cantidad": 2,
+        "Precio": 3.042
+    },
+    {
+        "Codigo": 40,
+        "Nombre": "BARNIZ",
+        "Marca": "PREMIER",
+        "Cantidad": 9,
+        "Precio": 148.747
+    },
+    {
+        "Codigo": 41,
+        "Nombre": "BARRAL EXTELUJO",
+        "Marca": "ALEX",
+        "Cantidad": 12,
+        "Precio": 10.128
+    },
+    {
+        "Codigo": 42,
+        "Nombre": "BARRAL",
+        "Marca": "VITAL GAS",
+        "Cantidad": 4,
+        "Precio": 4.967
+    },
+    {
+        "Codigo": 43,
+        "Nombre": "BARRAL EXT. COLOR",
+        "Marca": "ALEX",
+        "Cantidad": 6,
+        "Precio": 7.697
+    },
+    {
+        "Codigo": 44,
+        "Nombre": "BARREHOJAS",
+        "Marca": "NEIKE",
+        "Cantidad": 10,
+        "Precio": 9.207
+    },
+    {
+        "Codigo": 45,
+        "Nombre": "BARREHOJA",
+        "Marca": "TOTH",
+        "Cantidad": "4",
+        "Precio": 6.373
+    },
+    {
+        "Codigo": 46,
+        "Nombre": "BARRETA",
+        "Marca": "EL ROBLE",
+        "Cantidad": 11,
+        "Precio": 33.507
+    },
+    {
+        "Codigo": 47,
+        "Nombre": "MECHA COPA",
+        "Marca": "RHEIN",
+        "Cantidad": 4,
+        "Precio": 8.909
+    },
+    {
+        "Codigo": 48,
+        "Nombre": "BIS HERRERO",
+        "Marca": "FABI",
+        "Cantidad": 8,
+        "Precio": 20.172
+    },
+    {
+        "Codigo": 49,
+        "Nombre": "BIS MUNICION",
+        "Marca": "FABI",
+        "Cantidad": 8,
+        "Precio": 43.797
+    },
+    {
+        "Codigo": 50,
+        "Nombre": "BIS POMELA",
+        "Marca": "FABI",
+        "Cantidad": 2,
+        "Precio": 31.89
+    },
+    {
+        "Codigo": 51,
+        "Nombre": "BIS TORNILLO",
+        "Marca": "FABI",
+        "Cantidad": 3,
+        "Precio": 521
+    },
+    {
+        "Codigo": 52,
+        "Nombre": "BIS CARPINTERO",
+        "Marca": "FABI",
+        "Cantidad": 5,
+        "Precio": 18.354
+    },
+    {
+        "Codigo": 53,
+        "Nombre": "BORDEADORA",
+        "Marca": "VITAL GAS",
+        "Cantidad": 12,
+        "Precio": 53.776
+    },
+    {
+        "Codigo": 54,
+        "Nombre": "BROCHE",
+        "Marca": "BAIHAM",
+        "Cantidad": 7,
+        "Precio": 4.8
+    },
+    {
+        "Codigo": 55,
+        "Nombre": "BULON",
+        "Marca": "PROLL",
+        "Cantidad": 10,
+        "Precio": 4.222
+    },
+    {
+        "Codigo": 56,
+        "Nombre": "CAJA FIJACION",
+        "Marca": "SC",
+        "Cantidad": 4,
+        "Precio": 18.807
+    },
+    {
+        "Codigo": 57,
+        "Nombre": "CABEZA",
+        "Marca": "RIOS",
+        "Cantidad": 3,
+        "Precio": 586
+    },
+    {
+        "Codigo": 58,
+        "Nombre": "REGULADOR",
+        "Marca": "VITAL GAS",
+        "Cantidad": 6,
+        "Precio": 6.615
+    },
+    {
+        "Codigo": 59,
+        "Nombre": "REGULADOR COMUN",
+        "Marca": "PAZ",
+        "Cantidad": 10,
+        "Precio": 7.247
+    },
+    {
+        "Codigo": 60,
+        "Nombre": "CABLE ACERO",
+        "Marca": "TENSIL",
+        "Cantidad": 4,
+        "Precio": 290
+    },
+    {
+        "Codigo": 61,
+        "Nombre": "CABO AZADA",
+        "Marca": "MOISES",
+        "Cantidad": 3,
+        "Precio": 2.765
+    },
+    {
+        "Codigo": 62,
+        "Nombre": "CABO GUADA\u00c3\u2018A",
+        "Marca": "MOISES",
+        "Cantidad": 4,
+        "Precio": 4.089
+    },
+    {
+        "Codigo": 63,
+        "Nombre": "CABO HACHA",
+        "Marca": "MOISES",
+        "Cantidad": 7,
+        "Precio": 2.149
+    },
+    {
+        "Codigo": 64,
+        "Nombre": "CABO CORTO",
+        "Marca": "MOISES",
+        "Cantidad": 9,
+        "Precio": 1.257
+    },
+    {
+        "Codigo": 65,
+        "Nombre": "CABO HORQUILLA",
+        "Marca": "MOISES",
+        "Cantidad": 3,
+        "Precio": 4.691
+    },
+    {
+        "Codigo": 66,
+        "Nombre": "CABO MAZA",
+        "Marca": "MOISES",
+        "Cantidad": 7,
+        "Precio": 1.628
+    },
+    {
+        "Codigo": 67,
+        "Nombre": "CABO PALA",
+        "Marca": "MOISES",
+        "Cantidad": 11,
+        "Precio": 1.669
+    },
+    {
+        "Codigo": 68,
+        "Nombre": "CABO PICO",
+        "Marca": "MOISES",
+        "Cantidad": 2,
+        "Precio": 2.575
+    },
+    {
+        "Codigo": 69,
+        "Nombre": "CABO RASTRILLO",
+        "Marca": "MOISES",
+        "Cantidad": 3,
+        "Precio": 2.365
+    },
+    {
+        "Codigo": 70,
+        "Nombre": "CABO SERRUCHO",
+        "Marca": "STA. JUANA",
+        "Cantidad": 9,
+        "Precio": 2.933
+    },
+    {
+        "Codigo": 71,
+        "Nombre": "CADENA BOLITA",
+        "Marca": "CHINAC",
+        "Cantidad": 7,
+        "Precio": 1.637
+    },
+    {
+        "Codigo": 72,
+        "Nombre": "CADENA PATENTE",
+        "Marca": "ANCLA",
+        "Cantidad": 6,
+        "Precio": 11.395
+    },
+    {
+        "Codigo": 73,
+        "Nombre": "CADENA ZINCADA",
+        "Marca": "ANCLA",
+        "Cantidad": 6,
+        "Precio": 12.725
+    },
+    {
+        "Codigo": 74,
+        "Nombre": "CAJA INGLETAR",
+        "Marca": "ANEMI",
+        "Cantidad": 4,
+        "Precio": 4.675
+    },
+    {
+        "Codigo": 75,
+        "Nombre": "CAJA ENROLLADOR",
+        "Marca": "ANEMI",
+        "Cantidad": 9,
+        "Precio": 1.474
+    },
+    {
+        "Codigo": 76,
+        "Nombre": "CAJAS SEGURIDA",
+        "Marca": "PRIVE",
+        "Cantidad": 2,
+        "Precio": 99.891
+    },
+    {
+        "Codigo": 77,
+        "Nombre": "CALEFON A/INOXIDA",
+        "Marca": "VITAL GAS",
+        "Cantidad": 12,
+        "Precio": 54.356
+    },
+    {
+        "Codigo": 78,
+        "Nombre": "CALEFON",
+        "Marca": "VITAL GAS",
+        "Cantidad": 9,
+        "Precio": 27.109
+    },
+    {
+        "Codigo": 79,
+        "Nombre": "CALEFON EPOXI",
+        "Marca": "VITAL GAS",
+        "Cantidad": 4,
+        "Precio": 38.118
+    },
+    {
+        "Codigo": 80,
+        "Nombre": "CALEFON PLASTICO",
+        "Marca": "VITAL GAS",
+        "Cantidad": 4,
+        "Precio": 13.915
+    },
+    {
+        "Codigo": 81,
+        "Nombre": "CALENTADOR",
+        "Marca": "VITAL GAS",
+        "Cantidad": 12,
+        "Precio": 7.701
+    },
+    {
+        "Codigo": 82,
+        "Nombre": "CALENTADOR INMERS",
+        "Marca": "ALIGAS",
+        "Cantidad": 10,
+        "Precio": 5.02
+    },
+    {
+        "Codigo": 83,
+        "Nombre": "CALENTADOR INMER",
+        "Marca": "ALIGAS",
+        "Cantidad": 5,
+        "Precio": 2.182
+    },
+    {
+        "Codigo": 84,
+        "Nombre": "CALENTADOR ELECTR",
+        "Marca": "VITAL GAS",
+        "Cantidad": 2,
+        "Precio": 7.25
+    },
+    {
+        "Codigo": 85,
+        "Nombre": "CANILLA METAL",
+        "Marca": "DUKE",
+        "Cantidad": 6,
+        "Precio": 8.027
+    },
+    {
+        "Codigo": 86,
+        "Nombre": "CANILLA PLASTICA",
+        "Marca": "DUKE",
+        "Cantidad": 4,
+        "Precio": 6.253
+    },
+    {
+        "Codigo": 87,
+        "Nombre": "CANASTO VALV RETE",
+        "Marca": "DUKE",
+        "Cantidad": 5,
+        "Precio": 1.04
+    },
+    {
+        "Codigo": 88,
+        "Nombre": "CANDADO",
+        "Marca": "TRABEX",
+        "Cantidad": 5,
+        "Precio": 12.393
+    },
+    {
+        "Codigo": 89,
+        "Nombre": "CANDADO COMB NUME",
+        "Marca": "PRIVE",
+        "Cantidad": 12,
+        "Precio": 13.178
+    },
+    {
+        "Codigo": 90,
+        "Nombre": "CANDADO DOBLE PAL",
+        "Marca": "PRIVE",
+        "Cantidad": 9,
+        "Precio": 14.93
+    },
+    {
+        "Codigo": 91,
+        "Nombre": "CANDADO BLINDADO",
+        "Marca": "TRABEX",
+        "Cantidad": 10,
+        "Precio": 47.018
+    },
+    {
+        "Codigo": 92,
+        "Nombre": "CANDADO TITANIO",
+        "Marca": "PROLL",
+        "Cantidad": 10,
+        "Precio": 3.132
+    },
+    {
+        "Codigo": 93,
+        "Nombre": "CANILLA BRONCE",
+        "Marca": "LATYN",
+        "Cantidad": 3,
+        "Precio": 5.618
+    },
+    {
+        "Codigo": 94,
+        "Nombre": "CA\u00c3\u2018O ALUMINIO ROL",
+        "Marca": "ALEX",
+        "Cantidad": 2,
+        "Precio": 18.839
+    },
+    {
+        "Codigo": 95,
+        "Nombre": "CA\u00c3\u2018O HIERRO ECON",
+        "Marca": "ALEX",
+        "Cantidad": 2,
+        "Precio": 1.219
+    },
+    {
+        "Codigo": 96,
+        "Nombre": "CA\u00c3\u2018O MATE",
+        "Marca": "ALEX",
+        "Cantidad": 10,
+        "Precio": 1.285
+    },
+    {
+        "Codigo": 97,
+        "Nombre": "CA\u00c3\u2018O OVALAD",
+        "Marca": "SABELCORT",
+        "Cantidad": 2,
+        "Precio": 7.99
+    },
+    {
+        "Codigo": 98,
+        "Nombre": "REPUESTO CALEFON",
+        "Marca": "VITAL GAS",
+        "Cantidad": 11,
+        "Precio": 279
+    },
+    {
+        "Codigo": 99,
+        "Nombre": "CARBON",
+        "Marca": "VITAL GAS",
+        "Cantidad": 11,
+        "Precio": 1.284
+    },
+    {
+        "Codigo": 100,
+        "Nombre": "CARRETILLA",
+        "Marca": "DUROLL",
+        "Cantidad": 7,
+        "Precio": 111.403
+    },
+    {
+        "Codigo": 101,
+        "Nombre": "CARRETA",
+        "Marca": "DUROLL",
+        "Cantidad": 5,
+        "Precio": 135.752
+    },
+    {
+        "Codigo": 102,
+        "Nombre": "CARRETEL",
+        "Marca": "ALIGAS",
+        "Cantidad": 10,
+        "Precio": 415
+    },
+    {
+        "Codigo": 103,
+        "Nombre": "CARTUCHO ",
+        "Marca": "ALIGAS",
+        "Cantidad": 6,
+        "Precio": 3.248
+    },
+    {
+        "Codigo": 104,
+        "Nombre": "CATALI PRENS FRIA",
+        "Marca": "FORTEX",
+        "Cantidad": 6,
+        "Precio": 29.134
+    },
+    {
+        "Codigo": 105,
+        "Nombre": "CEMENTO CONT.",
+        "Marca": "FORTEX",
+        "Cantidad": 8,
+        "Precio": 1.615
+    },
+    {
+        "Codigo": 106,
+        "Nombre": "CEMENTO SOPLETEAB",
+        "Marca": "FORTEX",
+        "Cantidad": 2,
+        "Precio": 135.472
+    },
+    {
+        "Codigo": 107,
+        "Nombre": "CEMENTO",
+        "Marca": "FORTEX",
+        "Cantidad": 2,
+        "Precio": 6.481
+    },
+    {
+        "Codigo": 108,
+        "Nombre": "CEMENTO S/TOLUENO",
+        "Marca": "FORTEX",
+        "Cantidad": 4,
+        "Precio": 8.324
+    },
+    {
+        "Codigo": 109,
+        "Nombre": "CEPILLO",
+        "Marca": "RHEIN",
+        "Cantidad": 8,
+        "Precio": 2.218
+    },
+    {
+        "Codigo": 110,
+        "Nombre": "CEPILLO CIRCULAR",
+        "Marca": "RHEIN",
+        "Cantidad": 12,
+        "Precio": 5.233
+    },
+    {
+        "Codigo": 111,
+        "Nombre": "CEPILLO COPA",
+        "Marca": "RHEIN",
+        "Cantidad": 2,
+        "Precio": 5.296
+    },
+    {
+        "Codigo": 112,
+        "Nombre": "CEPILLO BOTE",
+        "Marca": "ANEMI",
+        "Cantidad": 2,
+        "Precio": 55.029
+    },
+    {
+        "Codigo": 113,
+        "Nombre": "CEPILLO CONICO",
+        "Marca": "RHEIN",
+        "Cantidad": 6,
+        "Precio": 4.432
+    },
+    {
+        "Codigo": 114,
+        "Nombre": "CERRADURA PLACARD",
+        "Marca": "CANOA",
+        "Cantidad": 6,
+        "Precio": 20.42
+    },
+    {
+        "Codigo": 115,
+        "Nombre": "CERRADURA",
+        "Marca": "CANOA",
+        "Cantidad": 4,
+        "Precio": 3.859
+    },
+    {
+        "Codigo": 116,
+        "Nombre": "CERROJO",
+        "Marca": "PRIVE",
+        "Cantidad": 10,
+        "Precio": 15.095
+    },
+    {
+        "Codigo": 117,
+        "Nombre": "CHOCLA",
+        "Marca": "SOLA",
+        "Cantidad": 6,
+        "Precio": 15.942
+    },
+    {
+        "Codigo": 118,
+        "Nombre": "CIERRAPUERTA",
+        "Marca": "TRABEX",
+        "Cantidad": 2,
+        "Precio": 133.412
+    },
+    {
+        "Codigo": 119,
+        "Nombre": "CILINDRO",
+        "Marca": "PRIVE",
+        "Cantidad": 9,
+        "Precio": 16.105
+    },
+    {
+        "Codigo": 120,
+        "Nombre": "CINTA DUCT TAPE",
+        "Marca": "DOBLE A",
+        "Cantidad": 4,
+        "Precio": 12.022
+    },
+    {
+        "Codigo": 121,
+        "Nombre": "CINTA DEST CA\u00c3\u2018ERI",
+        "Marca": "ROLL'S",
+        "Cantidad": 7,
+        "Precio": 4.938
+    },
+    {
+        "Codigo": 122,
+        "Nombre": "CINTA MET.",
+        "Marca": "ESSAMET",
+        "Cantidad": 2,
+        "Precio": 15.002
+    },
+    {
+        "Codigo": 123,
+        "Nombre": "CINCEL",
+        "Marca": "RHEIN",
+        "Cantidad": 12,
+        "Precio": 6.685
+    },
+    {
+        "Codigo": 124,
+        "Nombre": "CINTA EMBALAR",
+        "Marca": "DOBLE A",
+        "Cantidad": 5,
+        "Precio": 1.405
+    },
+    {
+        "Codigo": 125,
+        "Nombre": "CINTA PERSIANA",
+        "Marca": "TECNOTEX",
+        "Cantidad": 6,
+        "Precio": 509
+    },
+    {
+        "Codigo": 126,
+        "Nombre": "CINTA ENMASCARAR",
+        "Marca": "DOBLE A",
+        "Cantidad": 3,
+        "Precio": 2.377
+    },
+    {
+        "Codigo": 127,
+        "Nombre": "CINTA PELIGRO",
+        "Marca": "FERRISY.",
+        "Cantidad": 6,
+        "Precio": 1.188
+    },
+    {
+        "Codigo": 128,
+        "Nombre": "CINTA D/CA\u00c3\u2018ERIA",
+        "Marca": "TOTH",
+        "Cantidad": 10,
+        "Precio": 11.032
+    },
+    {
+        "Codigo": 129,
+        "Nombre": "CINTA D/PILETA",
+        "Marca": "TOTH",
+        "Cantidad": 8,
+        "Precio": 9.598
+    },
+    {
+        "Codigo": 130,
+        "Nombre": "CINTA ENMASC C903",
+        "Marca": "DOBLE A",
+        "Cantidad": 5,
+        "Precio": 1.525
+    },
+    {
+        "Codigo": 131,
+        "Nombre": "CINTA METRICA",
+        "Marca": "ESSAMET",
+        "Cantidad": 3,
+        "Precio": 15.002
+    },
+    {
+        "Codigo": 132,
+        "Nombre": "CINTA MONTAJE",
+        "Marca": "SC",
+        "Cantidad": 9,
+        "Precio": 10.792
+    },
+    {
+        "Codigo": 133,
+        "Nombre": "CLAVO PUNTA PARIS",
+        "Marca": "ACINDAR",
+        "Cantidad": 2,
+        "Precio": 4.245
+    },
+    {
+        "Codigo": 134,
+        "Nombre": "CLAVO C. PIZARRA",
+        "Marca": "ACINDAR",
+        "Cantidad": 4,
+        "Precio": 5.062
+    },
+    {
+        "Codigo": 135,
+        "Nombre": "CLAVO",
+        "Marca": "ELESCUERZO",
+        "Cantidad": 3,
+        "Precio": 5.486
+    },
+    {
+        "Codigo": 136,
+        "Nombre": "CLAVO ESPIRALADO",
+        "Marca": "ACINDAR",
+        "Cantidad": 3,
+        "Precio": 6.686
+    },
+    {
+        "Codigo": 137,
+        "Nombre": "CLAVIJA",
+        "Marca": "SABELCORT",
+        "Cantidad": 7,
+        "Precio": 3.953
+    },
+    {
+        "Codigo": 138,
+        "Nombre": "CLAVO CAB. PL",
+        "Marca": "4 BARRAS",
+        "Cantidad": 9,
+        "Precio": 4.792
+    },
+    {
+        "Codigo": 139,
+        "Nombre": "CLAVO CAJONERO",
+        "Marca": "ACINDAR",
+        "Cantidad": 12,
+        "Precio": 4.21
+    },
+    {
+        "Codigo": 140,
+        "Nombre": "CLAVO CHATA Y PER",
+        "Marca": "ACINDAR",
+        "Cantidad": 4,
+        "Precio": 12.436
+    },
+    {
+        "Codigo": 141,
+        "Nombre": "\u00c3\u2021LAVO CHATA Y PER",
+        "Marca": "ACINDAR",
+        "Cantidad": 11,
+        "Precio": 8.408
+    },
+    {
+        "Codigo": 142,
+        "Nombre": "CLAVO COBRE",
+        "Marca": "4 BARRAS",
+        "Cantidad": 9,
+        "Precio": 24.959
+    },
+    {
+        "Codigo": 143,
+        "Nombre": "CLAVO PARAGUA",
+        "Marca": "4 BARRAS",
+        "Cantidad": 9,
+        "Precio": 10.295
+    },
+    {
+        "Codigo": 144,
+        "Nombre": "COBERTOR",
+        "Marca": "PAINTROLER",
+        "Cantidad": 2,
+        "Precio": 2.897
+    },
+    {
+        "Codigo": 145,
+        "Nombre": "COFRE SEGURIDAD",
+        "Marca": "TRABEX",
+        "Cantidad": 12,
+        "Precio": 101.434
+    },
+    {
+        "Codigo": 146,
+        "Nombre": "COLA P/TELGOPOR",
+        "Marca": "FORTEX",
+        "Cantidad": 8,
+        "Precio": 1.487
+    },
+    {
+        "Codigo": 147,
+        "Nombre": "COLA CALIENTE",
+        "Marca": "FORTEX",
+        "Cantidad": 7,
+        "Precio": 239.779
+    },
+    {
+        "Codigo": 148,
+        "Nombre": "COLA PISO MADERA",
+        "Marca": "FORTEX",
+        "Cantidad": 12,
+        "Precio": 103.929
+    },
+    {
+        "Codigo": 149,
+        "Nombre": "COLA SINTETICA",
+        "Marca": "FORTEX",
+        "Cantidad": 8,
+        "Precio": 2.298
+    },
+    {
+        "Codigo": 150,
+        "Nombre": "COLA T-15",
+        "Marca": "FORTEX",
+        "Cantidad": 12,
+        "Precio": 8.659
+    },
+    {
+        "Codigo": 151,
+        "Nombre": "COLA X-36",
+        "Marca": "FORTEX",
+        "Cantidad": 10,
+        "Precio": 10.494
+    },
+    {
+        "Codigo": 152,
+        "Nombre": "CONECTOR ANGULO",
+        "Marca": "SC",
+        "Cantidad": 8,
+        "Precio": 9.788
+    },
+    {
+        "Codigo": 153,
+        "Nombre": "RIEGO",
+        "Marca": "VITAL GAS",
+        "Cantidad": 7,
+        "Precio": 1.241
+    },
+    {
+        "Codigo": 154,
+        "Nombre": "CONEX EXTEN AJUST",
+        "Marca": "DUKE",
+        "Cantidad": 8,
+        "Precio": 1.123
+    },
+    {
+        "Codigo": 155,
+        "Nombre": "CONTRA",
+        "Marca": "REEMBOLSO",
+        "Cantidad": 11,
+        "Precio": 0
+    },
+    {
+        "Codigo": 156,
+        "Nombre": "ESMALTE",
+        "Marca": "PREMIER",
+        "Cantidad": 6,
+        "Precio": 6.485
+    },
+    {
+        "Codigo": 157,
+        "Nombre": "CONVERTIDOR ",
+        "Marca": "PREMIER",
+        "Cantidad": 3,
+        "Precio": 217.834
+    },
+    {
+        "Codigo": 158,
+        "Nombre": "CONVERTIDOR OXIDO",
+        "Marca": "KUWAIT",
+        "Cantidad": 11,
+        "Precio": 3.544
+    },
+    {
+        "Codigo": 159,
+        "Nombre": "CORREA",
+        "Marca": "VITAL GAS",
+        "Cantidad": 10,
+        "Precio": 1.094
+    },
+    {
+        "Codigo": 160,
+        "Nombre": "CORT. CERAMICA",
+        "Marca": "NEIKE",
+        "Cantidad": 7,
+        "Precio": 54.913
+    },
+    {
+        "Codigo": 161,
+        "Nombre": "CORTAFRIO",
+        "Marca": "EL ROBLE",
+        "Cantidad": 10,
+        "Precio": 5.179
+    },
+    {
+        "Codigo": 162,
+        "Nombre": "CORTAFRIO CHATO",
+        "Marca": "GHERARDI",
+        "Cantidad": 7,
+        "Precio": 6.172
+    },
+    {
+        "Codigo": 163,
+        "Nombre": "CORTAFRIO ELEC.",
+        "Marca": "EL ROBLE",
+        "Cantidad": 8,
+        "Precio": 5.753
+    },
+    {
+        "Codigo": 164,
+        "Nombre": "CREMA LIMPIAMANOS",
+        "Marca": "TF3",
+        "Cantidad": 12,
+        "Precio": 3.149
+    },
+    {
+        "Codigo": 165,
+        "Nombre": "CREMA ADHESIVA",
+        "Marca": "TF3",
+        "Cantidad": 12,
+        "Precio": 7.984
+    },
+    {
+        "Codigo": 166,
+        "Nombre": "CUCHARA",
+        "Marca": "GHERARDI",
+        "Cantidad": 8,
+        "Precio": 15.87
+    },
+    {
+        "Codigo": 167,
+        "Nombre": "CUCHARA FORJADA",
+        "Marca": "FERCAS",
+        "Cantidad": 3,
+        "Precio": 14.745
+    },
+    {
+        "Codigo": 168,
+        "Nombre": "CUCHARA SOLDADA",
+        "Marca": "FERCAS",
+        "Cantidad": 11,
+        "Precio": 5.021
+    },
+    {
+        "Codigo": 169,
+        "Nombre": "SEPARADOR",
+        "Marca": "CRECCHIO",
+        "Cantidad": 6,
+        "Precio": 1.423
+    },
+    {
+        "Codigo": 170,
+        "Nombre": "CURADOR P/MADERA",
+        "Marca": "VENIER",
+        "Cantidad": 7,
+        "Precio": 9.773
+    },
+    {
+        "Codigo": 171,
+        "Nombre": "IMPERMEABILIZANTE",
+        "Marca": "VENIER",
+        "Cantidad": 3,
+        "Precio": 10.419
+    },
+    {
+        "Codigo": 172,
+        "Nombre": "DELANTAL",
+        "Marca": "TA-CO",
+        "Cantidad": 12,
+        "Precio": 969.117
+    },
+    {
+        "Codigo": 173,
+        "Nombre": "DESINFECTANTE",
+        "Marca": "KUWAIT",
+        "Cantidad": 8,
+        "Precio": 3.403
+    },
+    {
+        "Codigo": 174,
+        "Nombre": "DESOXIDANTE",
+        "Marca": "TF3",
+        "Cantidad": 5,
+        "Precio": 2.437
+    },
+    {
+        "Codigo": 175,
+        "Nombre": "PROTECTOR SUBCARR",
+        "Marca": "VENIER",
+        "Cantidad": 3,
+        "Precio": 3.297
+    },
+    {
+        "Codigo": 176,
+        "Nombre": "DESTORN. PHILLIP",
+        "Marca": "METZ",
+        "Cantidad": 10,
+        "Precio": 1.471
+    },
+    {
+        "Codigo": 177,
+        "Nombre": "DESTORN. STANDAR",
+        "Marca": "METZ",
+        "Cantidad": 7,
+        "Precio": 1.405
+    },
+    {
+        "Codigo": 178,
+        "Nombre": "DESTAPA CA\u00c3\u2018ERIAS",
+        "Marca": "TF3",
+        "Cantidad": 8,
+        "Precio": 1.948
+    },
+    {
+        "Codigo": 179,
+        "Nombre": "DESTRABADOR",
+        "Marca": "PRIVE",
+        "Cantidad": 5,
+        "Precio": 17.81
+    },
+    {
+        "Codigo": 180,
+        "Nombre": "DISCO SOLIDO",
+        "Marca": "DOBLE A",
+        "Cantidad": 11,
+        "Precio": 3.309
+    },
+    {
+        "Codigo": 181,
+        "Nombre": "DISCO FLAP",
+        "Marca": "TYROLIT",
+        "Cantidad": 12,
+        "Precio": 1.888
+    },
+    {
+        "Codigo": 182,
+        "Nombre": "DISCO METAL SECUR",
+        "Marca": "TYROLIT",
+        "Cantidad": 6,
+        "Precio": 1.836
+    },
+    {
+        "Codigo": 183,
+        "Nombre": "DISCO METAL XPERT",
+        "Marca": "TYROLIT",
+        "Cantidad": 5,
+        "Precio": 1.566
+    },
+    {
+        "Codigo": 184,
+        "Nombre": "DISCO PIEDR XPERT",
+        "Marca": "TYROLIT",
+        "Cantidad": 5,
+        "Precio": 1.385
+    },
+    {
+        "Codigo": 185,
+        "Nombre": "DISCO PIEDR SECUR",
+        "Marca": "TYROLIT",
+        "Cantidad": 10,
+        "Precio": 2.158
+    },
+    {
+        "Codigo": 186,
+        "Nombre": "DILUYENTES",
+        "Marca": "VENIER",
+        "Cantidad": 8,
+        "Precio": 12.942
+    },
+    {
+        "Codigo": 187,
+        "Nombre": "DILUYENTE",
+        "Marca": "FORTEX",
+        "Cantidad": 5,
+        "Precio": 109.755
+    },
+    {
+        "Codigo": 188,
+        "Nombre": "DISCO DIAMANTADO",
+        "Marca": "TYROLIT",
+        "Cantidad": 7,
+        "Precio": 4.659
+    },
+    {
+        "Codigo": 189,
+        "Nombre": "DISCO METAL BASIC",
+        "Marca": "TYROLIT",
+        "Cantidad": 2,
+        "Precio": 591
+    },
+    {
+        "Codigo": 190,
+        "Nombre": "DISCO MULTIUSO",
+        "Marca": "TYROLIT",
+        "Cantidad": 3,
+        "Precio": 10.193
+    },
+    {
+        "Codigo": 191,
+        "Nombre": "DISCO TURBO",
+        "Marca": "TYROLIT",
+        "Cantidad": 2,
+        "Precio": 30.052
+    },
+    {
+        "Codigo": 192,
+        "Nombre": "DISCO ABRASIVO",
+        "Marca": "SIN-PAR",
+        "Cantidad": 11,
+        "Precio": 1.881
+    },
+    {
+        "Codigo": 193,
+        "Nombre": "DIS. DIAMANTADO",
+        "Marca": "RHEIN",
+        "Cantidad": 2,
+        "Precio": 5.473
+    },
+    {
+        "Codigo": 194,
+        "Nombre": "DISCO LIMPIEZA",
+        "Marca": "TYROLIT",
+        "Cantidad": 6,
+        "Precio": 14.259
+    },
+    {
+        "Codigo": 195,
+        "Nombre": "DISCO",
+        "Marca": "RHEIN",
+        "Cantidad": 6,
+        "Precio": 741
+    },
+    {
+        "Codigo": 196,
+        "Nombre": "DISCO FLAPP",
+        "Marca": "SIN-PAR",
+        "Cantidad": 4,
+        "Precio": 4.51
+    },
+    {
+        "Codigo": 197,
+        "Nombre": "ELECTRODO",
+        "Marca": "SIDERAL",
+        "Cantidad": 8,
+        "Precio": 2.156565
+    },
+    {
+        "Codigo": 198,
+        "Nombre": "ENDUIDO",
+        "Marca": "PREMIER",
+        "Cantidad": 8,
+        "Precio": 2.6
+    },
+    {
+        "Codigo": 199,
+        "Nombre": "ENROLLADOR",
+        "Marca": "SIRA",
+        "Cantidad": 9,
+        "Precio": 8.57
+    },
+    {
+        "Codigo": 200,
+        "Nombre": "ENTONADOR",
+        "Marca": "TF3",
+        "Cantidad": 10,
+        "Precio": 532
+    },
+    {
+        "Codigo": 201,
+        "Nombre": "ESMALTE METALIZAD",
+        "Marca": "KUWAIT",
+        "Cantidad": 3,
+        "Precio": 6.467
+    },
+    {
+        "Codigo": 202,
+        "Nombre": "EST. CUARZO",
+        "Marca": "JETER",
+        "Cantidad": 3,
+        "Precio": 19.305
+    },
+    {
+        "Codigo": 203,
+        "Nombre": "ESCARDILLO S/CABO",
+        "Marca": "FERCAS",
+        "Cantidad": 11,
+        "Precio": 5.441
+    },
+    {
+        "Codigo": 204,
+        "Nombre": "ESC ALBA\u00c3\u2018I P/EPOX",
+        "Marca": "MAZZUCA",
+        "Cantidad": 2,
+        "Precio": 8.414
+    },
+    {
+        "Codigo": 205,
+        "Nombre": "ESCUADRA",
+        "Marca": "EL ROBLE",
+        "Cantidad": 12,
+        "Precio": 8.075
+    },
+    {
+        "Codigo": 206,
+        "Nombre": "ESQUINERO",
+        "Marca": "SC",
+        "Cantidad": 7,
+        "Precio": 6.545
+    },
+    {
+        "Codigo": 207,
+        "Nombre": "ESLINGA",
+        "Marca": "PRIVE",
+        "Cantidad": 7,
+        "Precio": 21.328
+    },
+    {
+        "Codigo": 208,
+        "Nombre": "ESPATULA",
+        "Marca": "FERCAS",
+        "Cantidad": 10,
+        "Precio": 2.694
+    },
+    {
+        "Codigo": 209,
+        "Nombre": "ESPUMA",
+        "Marca": "ADHEMATIC",
+        "Cantidad": 9,
+        "Precio": 4.062
+    },
+    {
+        "Codigo": 210,
+        "Nombre": "ESTUFA CUARZO",
+        "Marca": "VITAL GAS",
+        "Cantidad": 8,
+        "Precio": 18.031
+    },
+    {
+        "Codigo": 211,
+        "Nombre": "ESTANTE",
+        "Marca": "SC",
+        "Cantidad": 2,
+        "Precio": 19.309
+    },
+    {
+        "Codigo": 212,
+        "Nombre": "ESTOPA",
+        "Marca": "PAINTROLER",
+        "Cantidad": 3,
+        "Precio": 1.154
+    },
+    {
+        "Codigo": 213,
+        "Nombre": "EXHIBIDOR MECHAS",
+        "Marca": "NEIKE",
+        "Cantidad": 11,
+        "Precio": 112.335
+    },
+    {
+        "Codigo": 214,
+        "Nombre": "EXHIBIDORES",
+        "Marca": "KUWAIT",
+        "Cantidad": 8,
+        "Precio": 148.751
+    },
+    {
+        "Codigo": 215,
+        "Nombre": "EXHIBIDOR",
+        "Marca": "SC",
+        "Cantidad": 10,
+        "Precio": 47.546
+    },
+    {
+        "Codigo": 216,
+        "Nombre": "FAROL A GAS",
+        "Marca": "ALIGAS",
+        "Cantidad": 2,
+        "Precio": 18.908
+    },
+    {
+        "Codigo": 217,
+        "Nombre": "FIJADOR AEROSOL",
+        "Marca": "KUWAIT",
+        "Cantidad": 9,
+        "Precio": 3.614
+    },
+    {
+        "Codigo": 218,
+        "Nombre": "FIJADOR",
+        "Marca": "PREMIER",
+        "Cantidad": 2,
+        "Precio": 2.967
+    },
+    {
+        "Codigo": 219,
+        "Nombre": "FLEXIBLE COBRE",
+        "Marca": "DUKE.",
+        "Cantidad": 7,
+        "Precio": 3.97
+    },
+    {
+        "Codigo": 220,
+        "Nombre": "FLEXIBLE MET MALL",
+        "Marca": "DUKE.",
+        "Cantidad": 10,
+        "Precio": 3.906
+    },
+    {
+        "Codigo": 221,
+        "Nombre": "FLEXIBLE",
+        "Marca": "VITAL GAS",
+        "Cantidad": 4,
+        "Precio": 3.141
+    },
+    {
+        "Codigo": 222,
+        "Nombre": "FLEXIBLE PLAS MAL",
+        "Marca": "DUKE.",
+        "Cantidad": 12,
+        "Precio": 6.52
+    },
+    {
+        "Codigo": 223,
+        "Nombre": "FLEXIBLE PLAS BLA",
+        "Marca": "DUKE",
+        "Cantidad": 6,
+        "Precio": 1.559
+    },
+    {
+        "Codigo": 224,
+        "Nombre": "REGULADOR SUPER",
+        "Marca": "PAZ",
+        "Cantidad": 8,
+        "Precio": 11.285
+    },
+    {
+        "Codigo": 225,
+        "Nombre": "FONDO BLANCO",
+        "Marca": "PREMIER",
+        "Cantidad": 8,
+        "Precio": 9.123
+    },
+    {
+        "Codigo": 226,
+        "Nombre": "FORMON",
+        "Marca": "GHERARDI",
+        "Cantidad": 10,
+        "Precio": 7.654
+    },
+    {
+        "Codigo": 227,
+        "Nombre": "FRATACHO",
+        "Marca": "LAVASOLA.",
+        "Cantidad": 8,
+        "Precio": 3.099
+    },
+    {
+        "Codigo": 228,
+        "Nombre": "FRATACHO EURO",
+        "Marca": "BAIHAM",
+        "Cantidad": 7,
+        "Precio": 916
+    },
+    {
+        "Codigo": 229,
+        "Nombre": "FRATACHO ABRASIVO",
+        "Marca": "CORTAMAX.",
+        "Cantidad": 8,
+        "Precio": 2.12
+    },
+    {
+        "Codigo": 230,
+        "Nombre": "FRATACHO ALGARROB",
+        "Marca": "ANEMI",
+        "Cantidad": 11,
+        "Precio": 1.983
+    },
+    {
+        "Codigo": 231,
+        "Nombre": "FRATACHO LIJADR",
+        "Marca": "STA. JUANA",
+        "Cantidad": 12,
+        "Precio": 10.595
+    },
+    {
+        "Codigo": 232,
+        "Nombre": "FRATACHO MADERA",
+        "Marca": "ANEMI",
+        "Cantidad": 11,
+        "Precio": 890
+    },
+    {
+        "Codigo": 233,
+        "Nombre": "FRESA 4C",
+        "Marca": "NEIKE",
+        "Cantidad": 7,
+        "Precio": 19.15
+    },
+    {
+        "Codigo": 234,
+        "Nombre": "GANCHO",
+        "Marca": "ELESCUERZO",
+        "Cantidad": 3,
+        "Precio": 9.941
+    },
+    {
+        "Codigo": 235,
+        "Nombre": "GANCHO SOGA ELAST",
+        "Marca": "TENSIL",
+        "Cantidad": 9,
+        "Precio": 232
+    },
+    {
+        "Codigo": 236,
+        "Nombre": "GANCHO HAMACA",
+        "Marca": "SC",
+        "Cantidad": 12,
+        "Precio": 1.697
+    },
+    {
+        "Codigo": 237,
+        "Nombre": "MICROGARRAFA",
+        "Marca": "VITAL GAS",
+        "Cantidad": 2,
+        "Precio": 62.609
+    },
+    {
+        "Codigo": 238,
+        "Nombre": "GRASA GRAFITADA",
+        "Marca": "TF3",
+        "Cantidad": 4,
+        "Precio": 1.175
+    },
+    {
+        "Codigo": 239,
+        "Nombre": "GRAFITO AEROSOL",
+        "Marca": "KUWAIT",
+        "Cantidad": 7,
+        "Precio": 6.201
+    },
+    {
+        "Codigo": 240,
+        "Nombre": "GRAFITO POLVO",
+        "Marca": "TF3",
+        "Cantidad": 2,
+        "Precio": 851
+    },
+    {
+        "Codigo": 241,
+        "Nombre": "GRAMPA U",
+        "Marca": "EGA",
+        "Cantidad": 12,
+        "Precio": 37
+    },
+    {
+        "Codigo": 242,
+        "Nombre": "GRAMPA GIRATORIA",
+        "Marca": "SIRA",
+        "Cantidad": 2,
+        "Precio": 1.795
+    },
+    {
+        "Codigo": 243,
+        "Nombre": "GRAMPA OMEGA",
+        "Marca": "SC",
+        "Cantidad": 4,
+        "Precio": 4.31
+    },
+    {
+        "Codigo": 244,
+        "Nombre": "GRASA AMARILLA",
+        "Marca": "TF3",
+        "Cantidad": 10,
+        "Precio": 860
+    },
+    {
+        "Codigo": 245,
+        "Nombre": "GRASA LITIO",
+        "Marca": "TF3",
+        "Cantidad": 10,
+        "Precio": 860
+    },
+    {
+        "Codigo": 246,
+        "Nombre": "GRIFO DE BRONCE",
+        "Marca": "ALIGAS",
+        "Cantidad": 10,
+        "Precio": 6.536
+    },
+    {
+        "Codigo": 247,
+        "Nombre": "GRINFA",
+        "Marca": "EL ROBLE",
+        "Cantidad": 7,
+        "Precio": 5.858
+    },
+    {
+        "Codigo": 248,
+        "Nombre": "GUANTE MOTEADO",
+        "Marca": "KUBIS",
+        "Cantidad": 3,
+        "Precio": 740
+    },
+    {
+        "Codigo": 249,
+        "Nombre": "GUANTE DOMESTICO",
+        "Marca": "TA-CO",
+        "Cantidad": 5,
+        "Precio": 4.12
+    },
+    {
+        "Codigo": 250,
+        "Nombre": "GUANTE AFELPADO",
+        "Marca": "TA-CO",
+        "Cantidad": 5,
+        "Precio": 26.666
+    },
+    {
+        "Codigo": 251,
+        "Nombre": "GUANTE",
+        "Marca": "KUBIS",
+        "Cantidad": 6,
+        "Precio": 2.63
+    },
+    {
+        "Codigo": 252,
+        "Nombre": "GUANTE LIV",
+        "Marca": "TA-CO",
+        "Cantidad": 7,
+        "Precio": 5.142
+    },
+    {
+        "Codigo": 253,
+        "Nombre": "GUANTE NITRILO",
+        "Marca": "TA-CO",
+        "Cantidad": 5,
+        "Precio": 13.292
+    },
+    {
+        "Codigo": 254,
+        "Nombre": "GUANTE PES",
+        "Marca": "TA-CO",
+        "Cantidad": 8,
+        "Precio": 8.069
+    },
+    {
+        "Codigo": 255,
+        "Nombre": "GUANTE ROJO",
+        "Marca": "TA-CO",
+        "Cantidad": 3,
+        "Precio": 11.987
+    },
+    {
+        "Codigo": 256,
+        "Nombre": "HACHA",
+        "Marca": "VIRGA",
+        "Cantidad": 12,
+        "Precio": 40.86
+    },
+    {
+        "Codigo": 257,
+        "Nombre": "HACHITA",
+        "Marca": "VIRGA",
+        "Cantidad": 8,
+        "Precio": 13.925
+    },
+    {
+        "Codigo": 258,
+        "Nombre": "HACHUELA ALBA\u00c3\u2018IL",
+        "Marca": "MAZZUCA",
+        "Cantidad": 3,
+        "Precio": 11.743
+    },
+    {
+        "Codigo": 259,
+        "Nombre": "HACHUELA AZULEJIS",
+        "Marca": "EL ROBLE",
+        "Cantidad": 11,
+        "Precio": 8.56
+    },
+    {
+        "Codigo": 260,
+        "Nombre": "HIERRO CEPILLO",
+        "Marca": "ANEMI",
+        "Cantidad": 12,
+        "Precio": 20.641
+    },
+    {
+        "Codigo": 261,
+        "Nombre": "HILO ALGODON",
+        "Marca": "SELSA",
+        "Cantidad": 5,
+        "Precio": 4.138
+    },
+    {
+        "Codigo": 262,
+        "Nombre": "HILO CHORICERO",
+        "Marca": "SELSA",
+        "Cantidad": 11,
+        "Precio": 5.142
+    },
+    {
+        "Codigo": 263,
+        "Nombre": "HILO SISAL",
+        "Marca": "SELSA",
+        "Cantidad": 9,
+        "Precio": 108.728
+    },
+    {
+        "Codigo": 264,
+        "Nombre": "HOJA CALADORA",
+        "Marca": "SIN-PAR",
+        "Cantidad": 6,
+        "Precio": 26.605
+    },
+    {
+        "Codigo": 265,
+        "Nombre": "HOJA SERRUCHO",
+        "Marca": "SIN-PAR",
+        "Cantidad": 4,
+        "Precio": 30.539
+    },
+    {
+        "Codigo": 266,
+        "Nombre": "HOJA DE SIERRA",
+        "Marca": "SIN-PAR",
+        "Cantidad": 10,
+        "Precio": 1.262
+    },
+    {
+        "Codigo": 267,
+        "Nombre": "HORMIGONERA",
+        "Marca": "DUROLL",
+        "Cantidad": 7,
+        "Precio": 3.328066
+    },
+    {
+        "Codigo": 268,
+        "Nombre": "HORQUILLA",
+        "Marca": "GHERARDI",
+        "Cantidad": 3,
+        "Precio": 53.613
+    },
+    {
+        "Codigo": 269,
+        "Nombre": "IMPERM ACRIL LADR",
+        "Marca": "PREMIER",
+        "Cantidad": 12,
+        "Precio": 3.906
+    },
+    {
+        "Codigo": 270,
+        "Nombre": "INYECTOR",
+        "Marca": "VITAL GAS",
+        "Cantidad": 6,
+        "Precio": 526
+    },
+    {
+        "Codigo": 271,
+        "Nombre": "LAPIZ",
+        "Marca": "SOLA",
+        "Cantidad": 4,
+        "Precio": 1.888
+    },
+    {
+        "Codigo": 272,
+        "Nombre": "LAPIZ WIDIA",
+        "Marca": "NEIKE",
+        "Cantidad": 8,
+        "Precio": 1.566
+    },
+    {
+        "Codigo": 273,
+        "Nombre": "LASUR",
+        "Marca": "PREMIER",
+        "Cantidad": 12,
+        "Precio": 10.97
+    },
+    {
+        "Codigo": 274,
+        "Nombre": "LATEX",
+        "Marca": "PREMIER",
+        "Cantidad": 5,
+        "Precio": 66.777
+    },
+    {
+        "Codigo": 275,
+        "Nombre": "LATAS SIN PAR",
+        "Marca": "SIN-PAR",
+        "Cantidad": 9,
+        "Precio": 0
+    },
+    {
+        "Codigo": 276,
+        "Nombre": "LATEX SATINADO",
+        "Marca": "VENIER",
+        "Cantidad": 4,
+        "Precio": 100.621
+    },
+    {
+        "Codigo": 277,
+        "Nombre": "LIJA AL AGUA",
+        "Marca": "HUNTER",
+        "Cantidad": 4,
+        "Precio": 40
+    },
+    {
+        "Codigo": 278,
+        "Nombre": "LIJA",
+        "Marca": "EL GALGO",
+        "Cantidad": 10,
+        "Precio": 510
+    },
+    {
+        "Codigo": 279,
+        "Nombre": "LIJA MADERA",
+        "Marca": "DOBLE A",
+        "Cantidad": 9,
+        "Precio": 453
+    },
+    {
+        "Codigo": 280,
+        "Nombre": "LIJA NO PAST",
+        "Marca": "DOBLE A",
+        "Cantidad": 4,
+        "Precio": 1.094
+    },
+    {
+        "Codigo": 281,
+        "Nombre": "LLANA",
+        "Marca": "STA. JUANA",
+        "Cantidad": 3,
+        "Precio": 5.358
+    },
+    {
+        "Codigo": 282,
+        "Nombre": "LLANA DENTADA",
+        "Marca": "NEIKE",
+        "Cantidad": 2,
+        "Precio": 5.835
+    },
+    {
+        "Codigo": 283,
+        "Nombre": "LLANA YESERO",
+        "Marca": "NEIKE",
+        "Cantidad": 12,
+        "Precio": 4.903
+    },
+    {
+        "Codigo": 284,
+        "Nombre": "LLAVE AJUSTABLE",
+        "Marca": "METZ",
+        "Cantidad": 8,
+        "Precio": 7.487
+    },
+    {
+        "Codigo": 285,
+        "Nombre": "LLAVE CA\u00c3\u2018O",
+        "Marca": "METZ",
+        "Cantidad": 9,
+        "Precio": 25.693
+    },
+    {
+        "Codigo": 286,
+        "Nombre": "LLAVE COMBINACION",
+        "Marca": "TRABEX",
+        "Cantidad": 6,
+        "Precio": 13.436
+    },
+    {
+        "Codigo": 287,
+        "Nombre": "LLAVE COMBINADA",
+        "Marca": "RHEIN",
+        "Cantidad": 7,
+        "Precio": 2.393
+    },
+    {
+        "Codigo": 288,
+        "Nombre": "LLAVE",
+        "Marca": "PRIVE",
+        "Cantidad": 3,
+        "Precio": 698
+    },
+    {
+        "Codigo": 289,
+        "Nombre": "LLAVE T",
+        "Marca": "RHEIN",
+        "Cantidad": 12,
+        "Precio": 4.909
+    },
+    {
+        "Codigo": 290,
+        "Nombre": "LUBRICAN SILICONA",
+        "Marca": "TF3",
+        "Cantidad": 4,
+        "Precio": 3.752
+    },
+    {
+        "Codigo": 291,
+        "Nombre": "LUBRICANTE TEFLON",
+        "Marca": "TF3",
+        "Cantidad": 10,
+        "Precio": 2.635
+    },
+    {
+        "Codigo": 292,
+        "Nombre": "LUBRICANTE",
+        "Marca": "MECANIC 50",
+        "Cantidad": 6,
+        "Precio": 1.88
+    },
+    {
+        "Codigo": 296,
+        "Nombre": "MANGUERA",
+        "Marca": "J.C.",
+        "Cantidad": 12,
+        "Precio": 273
+    },
+    {
+        "Codigo": 297,
+        "Nombre": "MACETA",
+        "Marca": "EL ROBLE",
+        "Cantidad": 8,
+        "Precio": 8.67
+    },
+    {
+        "Codigo": 298,
+        "Nombre": "MACHETE",
+        "Marca": "STA. JUANA",
+        "Cantidad": 10,
+        "Precio": 10.202
+    },
+    {
+        "Codigo": 299,
+        "Nombre": "MANIJA MIN BRONCE",
+        "Marca": "FUNAL",
+        "Cantidad": 2,
+        "Precio": 6.158
+    },
+    {
+        "Codigo": 300,
+        "Nombre": "MANIJA BISELADA",
+        "Marca": "FUNAL",
+        "Cantidad": 11,
+        "Precio": 10.674
+    },
+    {
+        "Codigo": 301,
+        "Nombre": "MANG MALLA AZUL",
+        "Marca": "PLASTIMET",
+        "Cantidad": 5,
+        "Precio": 5.937
+    },
+    {
+        "Codigo": 302,
+        "Nombre": "MANIJA PULL",
+        "Marca": "SC",
+        "Cantidad": 6,
+        "Precio": 865
+    },
+    {
+        "Codigo": 303,
+        "Nombre": "MANGUERA MALLADA",
+        "Marca": "FAMAPLAST",
+        "Cantidad": 3,
+        "Precio": 889
+    },
+    {
+        "Codigo": 306,
+        "Nombre": "MANG PRESION",
+        "Marca": "PLASTIMET",
+        "Cantidad": 7,
+        "Precio": 1.24
+    },
+    {
+        "Codigo": 307,
+        "Nombre": "MANG GAS APROBADA",
+        "Marca": "PLASTIMET",
+        "Cantidad": 5,
+        "Precio": 1.386
+    },
+    {
+        "Codigo": 308,
+        "Nombre": "MANGUERA GAS",
+        "Marca": "FAMAPLAST",
+        "Cantidad": 2,
+        "Precio": 577
+    },
+    {
+        "Codigo": 309,
+        "Nombre": "MANIJA",
+        "Marca": "LUPUM",
+        "Cantidad": 11,
+        "Precio": 12.897
+    },
+    {
+        "Codigo": 312,
+        "Nombre": "MANTA ELASTICA",
+        "Marca": "VENIER",
+        "Cantidad": 6,
+        "Precio": 11.419
+    },
+    {
+        "Codigo": 313,
+        "Nombre": "MAQUINA SALPICAR",
+        "Marca": "NEIKE",
+        "Cantidad": 11,
+        "Precio": 17.946
+    },
+    {
+        "Codigo": 314,
+        "Nombre": "MARTILLO",
+        "Marca": "STA. JUANA",
+        "Cantidad": 3,
+        "Precio": 6.239
+    },
+    {
+        "Codigo": 315,
+        "Nombre": "MARTILLO BOLITA",
+        "Marca": "F/QUINTANA",
+        "Cantidad": 6,
+        "Precio": 7.845
+    },
+    {
+        "Codigo": 316,
+        "Nombre": "MARTILLO CARP U\u00c3\u2018A",
+        "Marca": "EL ROBLE",
+        "Cantidad": 2,
+        "Precio": 7.657
+    },
+    {
+        "Codigo": 317,
+        "Nombre": "MARTILLO CARPINTE",
+        "Marca": "F/QUINTANA",
+        "Cantidad": 11,
+        "Precio": 5.025
+    },
+    {
+        "Codigo": 318,
+        "Nombre": "MARTILLO GALPONER",
+        "Marca": "LORO",
+        "Cantidad": 4,
+        "Precio": 33.034
+    },
+    {
+        "Codigo": 319,
+        "Nombre": "MARTILLO ALBA\u00c3\u2018IL",
+        "Marca": "MAZZUCA",
+        "Cantidad": 5,
+        "Precio": 11.743
+    },
+    {
+        "Codigo": 320,
+        "Nombre": "MARTILLO COBRE",
+        "Marca": "ALIGAS",
+        "Cantidad": 9,
+        "Precio": 5.245
+    },
+    {
+        "Codigo": 321,
+        "Nombre": "MASILLA",
+        "Marca": "PREMIER",
+        "Cantidad": 8,
+        "Precio": 8.951
+    },
+    {
+        "Codigo": 322,
+        "Nombre": "MASILLA ACRILICA",
+        "Marca": "VENIER",
+        "Cantidad": 5,
+        "Precio": 21.685
+    },
+    {
+        "Codigo": 323,
+        "Nombre": "MASILLA MADERA",
+        "Marca": "VENIER",
+        "Cantidad": 8,
+        "Precio": 3.685
+    },
+    {
+        "Codigo": 324,
+        "Nombre": "MECHA WIDIA 110",
+        "Marca": "EZETA",
+        "Cantidad": 7,
+        "Precio": 2.588
+    },
+    {
+        "Codigo": 325,
+        "Nombre": "MECHA WIDIA 160",
+        "Marca": "EZETA",
+        "Cantidad": 11,
+        "Precio": 4.315
+    },
+    {
+        "Codigo": 326,
+        "Nombre": "MECHA DE CENTRO",
+        "Marca": "EZETA",
+        "Cantidad": 7,
+        "Precio": 12.969
+    },
+    {
+        "Codigo": 327,
+        "Nombre": "MECHA LARGA 375",
+        "Marca": "EZETA",
+        "Cantidad": 2,
+        "Precio": 102.095
+    },
+    {
+        "Codigo": 328,
+        "Nombre": "MECHA WIDIA MEDIA",
+        "Marca": "NEIKE",
+        "Cantidad": 6,
+        "Precio": 3.072
+    },
+    {
+        "Codigo": 329,
+        "Nombre": "MECHA A/RAPIDO",
+        "Marca": "EZETA",
+        "Cantidad": 9,
+        "Precio": 2.569
+    },
+    {
+        "Codigo": 330,
+        "Nombre": "MECHA COLA REBAJA",
+        "Marca": "EZETA",
+        "Cantidad": 6,
+        "Precio": 32.762
+    },
+    {
+        "Codigo": 331,
+        "Nombre": "MECHA CONICA",
+        "Marca": "EZETA",
+        "Cantidad": 9,
+        "Precio": 38.04
+    },
+    {
+        "Codigo": 332,
+        "Nombre": "MECHA D/PUNTA",
+        "Marca": "EZETA",
+        "Cantidad": 10,
+        "Precio": 2.585
+    },
+    {
+        "Codigo": 333,
+        "Nombre": "MECHA DECIMAL",
+        "Marca": "EZETA",
+        "Cantidad": 5,
+        "Precio": 2.83
+    },
+    {
+        "Codigo": 334,
+        "Nombre": "MECHA DIN 345",
+        "Marca": "EZETA",
+        "Cantidad": 6,
+        "Precio": 178.558
+    },
+    {
+        "Codigo": 335,
+        "Nombre": "MECHA ESCALONADA",
+        "Marca": "EZETA",
+        "Cantidad": 4,
+        "Precio": 48.861
+    },
+    {
+        "Codigo": 336,
+        "Nombre": "MECHA INOXIDABLE",
+        "Marca": "EZETA",
+        "Cantidad": 4,
+        "Precio": 3.304
+    },
+    {
+        "Codigo": 337,
+        "Nombre": "MECHA P/BRONCE",
+        "Marca": "EZETA",
+        "Cantidad": 3,
+        "Precio": 3.284
+    },
+    {
+        "Codigo": 338,
+        "Nombre": "MECHA SERIE LARGA",
+        "Marca": "EZETA",
+        "Cantidad": 12,
+        "Precio": 4.474
+    },
+    {
+        "Codigo": 339,
+        "Nombre": "MECHA WIDIA",
+        "Marca": "ESSAMET",
+        "Cantidad": 9,
+        "Precio": 1.564
+    },
+    {
+        "Codigo": 340,
+        "Nombre": "MECHA TITANIO",
+        "Marca": "EZETA",
+        "Cantidad": 7,
+        "Precio": 5.249
+    },
+    {
+        "Codigo": 341,
+        "Nombre": "MECHA WIDIA 200",
+        "Marca": "EZETA",
+        "Cantidad": 6,
+        "Precio": 5.263
+    },
+    {
+        "Codigo": 342,
+        "Nombre": "MECHA WIDIA LARGA",
+        "Marca": "EZETA",
+        "Cantidad": 4,
+        "Precio": 7.817
+    },
+    {
+        "Codigo": 343,
+        "Nombre": "MECHA WIDIA CORTA",
+        "Marca": "EZETA",
+        "Cantidad": 10,
+        "Precio": 1.155
+    },
+    {
+        "Codigo": 344,
+        "Nombre": "MECHA WIDIA RADIA",
+        "Marca": "NEIKE",
+        "Cantidad": 7,
+        "Precio": 12.251
+    },
+    {
+        "Codigo": 345,
+        "Nombre": "MEDIA MANIJA",
+        "Marca": "LUPUM",
+        "Cantidad": 10,
+        "Precio": 5.671
+    },
+    {
+        "Codigo": 347,
+        "Nombre": "MEMBRANA",
+        "Marca": "PREMIER",
+        "Cantidad": 12,
+        "Precio": 6.039
+    },
+    {
+        "Codigo": 348,
+        "Nombre": "MENSULA P/ESTANTE",
+        "Marca": "SC",
+        "Cantidad": 8,
+        "Precio": 1.43
+    },
+    {
+        "Codigo": 349,
+        "Nombre": "MEZCLADOR PINTURA",
+        "Marca": "NEIKE",
+        "Cantidad": 5,
+        "Precio": 4.399
+    },
+    {
+        "Codigo": 353,
+        "Nombre": "MINI RODILLO",
+        "Marca": "PAINTROLER",
+        "Cantidad": 7,
+        "Precio": 453
+    },
+    {
+        "Codigo": 357,
+        "Nombre": "NIVEL ALUMINIO",
+        "Marca": "ANEMI",
+        "Cantidad": 4,
+        "Precio": 7.516
+    },
+    {
+        "Codigo": 358,
+        "Nombre": "NIVEL C/CANT",
+        "Marca": "ANEMI",
+        "Cantidad": 10,
+        "Precio": 5.572
+    },
+    {
+        "Codigo": 359,
+        "Nombre": "NIVEL PLASTICO",
+        "Marca": "SOLA",
+        "Cantidad": 4,
+        "Precio": 37.133
+    },
+    {
+        "Codigo": 360,
+        "Nombre": "NIVEL S/CANT,",
+        "Marca": "ANEMI",
+        "Cantidad": 6,
+        "Precio": 3.994
+    },
+    {
+        "Codigo": 361,
+        "Nombre": "PASA CABLE",
+        "Marca": "TAVERNA",
+        "Cantidad": 10,
+        "Precio": 5.2
+    },
+    {
+        "Codigo": 362,
+        "Nombre": "OJAL HIERRO",
+        "Marca": "ALEX",
+        "Cantidad": 6,
+        "Precio": 11.291
+    },
+    {
+        "Codigo": 363,
+        "Nombre": "OJAL PLASTICO",
+        "Marca": "ALEX",
+        "Cantidad": 8,
+        "Precio": 17.407
+    },
+    {
+        "Codigo": 364,
+        "Nombre": "PASADOR",
+        "Marca": "SC",
+        "Cantidad": 12,
+        "Precio": 15.093
+    },
+    {
+        "Codigo": 365,
+        "Nombre": "PALA",
+        "Marca": "GHERARDI",
+        "Cantidad": 11,
+        "Precio": 39.863
+    },
+    {
+        "Codigo": 367,
+        "Nombre": "PALA HOYADORA,",
+        "Marca": "ANEMI",
+        "Cantidad": 12,
+        "Precio": 63.788
+    },
+    {
+        "Codigo": 369,
+        "Nombre": "PALITA TRANSPLNT",
+        "Marca": "FERCAS",
+        "Cantidad": 3,
+        "Precio": 5.299
+    },
+    {
+        "Codigo": 372,
+        "Nombre": "PA\u00c3\u2018O LUSTRE",
+        "Marca": "PAINTROLER",
+        "Cantidad": 11,
+        "Precio": 1.501
+    },
+    {
+        "Codigo": 376,
+        "Nombre": "PASADOR C/PORT",
+        "Marca": "SC",
+        "Cantidad": 6,
+        "Precio": 9.111
+    },
+    {
+        "Codigo": 377,
+        "Nombre": "PASACINTA",
+        "Marca": "SIRA",
+        "Cantidad": 10,
+        "Precio": 2.308
+    },
+    {
+        "Codigo": 378,
+        "Nombre": "PASADOR ZINCADO",
+        "Marca": "TR",
+        "Cantidad": 5,
+        "Precio": 30.577
+    },
+    {
+        "Codigo": 379,
+        "Nombre": "PEINE",
+        "Marca": "NEIKE",
+        "Cantidad": 5,
+        "Precio": 525
+    },
+    {
+        "Codigo": 380,
+        "Nombre": "PITON",
+        "Marca": "ELESCUERZO",
+        "Cantidad": 4,
+        "Precio": 17.28
+    },
+    {
+        "Codigo": 381,
+        "Nombre": "PICO",
+        "Marca": "GHERARDI",
+        "Cantidad": 4,
+        "Precio": 52.132
+    },
+    {
+        "Codigo": 382,
+        "Nombre": "PICAPORTE",
+        "Marca": "PRIVE",
+        "Cantidad": 2,
+        "Precio": 8.921
+    },
+    {
+        "Codigo": 383,
+        "Nombre": "PICO LORO",
+        "Marca": "GHERARDI",
+        "Cantidad": 4,
+        "Precio": 15.877
+    },
+    {
+        "Codigo": 384,
+        "Nombre": "PILETA LAVATORIO",
+        "Marca": "DUKE",
+        "Cantidad": 2,
+        "Precio": 13.675
+    },
+    {
+        "Codigo": 385,
+        "Nombre": "PILETA LAVADERO",
+        "Marca": "DUKE",
+        "Cantidad": 7,
+        "Precio": 15.72
+    },
+    {
+        "Codigo": 386,
+        "Nombre": "PINTURAS",
+        "Marca": "VENIER",
+        "Cantidad": 3,
+        "Precio": 7.177
+    },
+    {
+        "Codigo": 387,
+        "Nombre": "PINCEL",
+        "Marca": "EL GALGO",
+        "Cantidad": 12,
+        "Precio": 1.489
+    },
+    {
+        "Codigo": 388,
+        "Nombre": "PINCELETA",
+        "Marca": "PAINTROLER",
+        "Cantidad": 12,
+        "Precio": 2.215
+    },
+    {
+        "Codigo": 389,
+        "Nombre": "PINZA CORT. CERAM",
+        "Marca": "NEIKE",
+        "Cantidad": 3,
+        "Precio": 9.53
+    },
+    {
+        "Codigo": 390,
+        "Nombre": "PIOLIN",
+        "Marca": "SELSA",
+        "Cantidad": 9,
+        "Precio": 13.001
+    },
+    {
+        "Codigo": 391,
+        "Nombre": "PIOLIN OVILLOS",
+        "Marca": "SELSA",
+        "Cantidad": 4,
+        "Precio": 14.062
+    },
+    {
+        "Codigo": 392,
+        "Nombre": "PIQUETA",
+        "Marca": "EL ROBLE",
+        "Cantidad": 11,
+        "Precio": 8.56
+    },
+    {
+        "Codigo": 393,
+        "Nombre": "PIQUETA SOLDADOR",
+        "Marca": "MAZZUCA",
+        "Cantidad": 4,
+        "Precio": 11.651
+    },
+    {
+        "Codigo": 394,
+        "Nombre": "PISTOLA APLICADOR",
+        "Marca": "NEIKE",
+        "Cantidad": 5,
+        "Precio": 9.22
+    },
+    {
+        "Codigo": 395,
+        "Nombre": "PIZON",
+        "Marca": "GHERARDI",
+        "Cantidad": 6,
+        "Precio": 33.725
+    },
+    {
+        "Codigo": 396,
+        "Nombre": "PLANCHUELA",
+        "Marca": "SC",
+        "Cantidad": 8,
+        "Precio": 2.083
+    },
+    {
+        "Codigo": 397,
+        "Nombre": "PLOMADA",
+        "Marca": "TOTH",
+        "Cantidad": 3,
+        "Precio": 4.024
+    },
+    {
+        "Codigo": 398,
+        "Nombre": "POLEA",
+        "Marca": "SIRA",
+        "Cantidad": 8,
+        "Precio": 4.752
+    },
+    {
+        "Codigo": 399,
+        "Nombre": "POMO",
+        "Marca": "LUPUM",
+        "Cantidad": 5,
+        "Precio": 37.07
+    },
+    {
+        "Codigo": 400,
+        "Nombre": "PRECINTO",
+        "Marca": "CRECCHIO",
+        "Cantidad": 9,
+        "Precio": 880
+    },
+    {
+        "Codigo": 401,
+        "Nombre": "PRENSA",
+        "Marca": "ELESCUERZO",
+        "Cantidad": 12,
+        "Precio": 24.186
+    },
+    {
+        "Codigo": 402,
+        "Nombre": "PROTECTOR",
+        "Marca": "VITAL GAS",
+        "Cantidad": 10,
+        "Precio": 1.475
+    },
+    {
+        "Codigo": 403,
+        "Nombre": "PROTECTOR BRONCE",
+        "Marca": "VENIER",
+        "Cantidad": 12,
+        "Precio": 5.816
+    },
+    {
+        "Codigo": 404,
+        "Nombre": "PUNTA ATORNILLAR",
+        "Marca": "METZ",
+        "Cantidad": 10,
+        "Precio": 2.249
+    },
+    {
+        "Codigo": 405,
+        "Nombre": "PUNTA",
+        "Marca": "EL ROBLE",
+        "Cantidad": 2,
+        "Precio": 5.179
+    },
+    {
+        "Codigo": 406,
+        "Nombre": "PUNTA DE EJE",
+        "Marca": "SIRA",
+        "Cantidad": 3,
+        "Precio": 1.058
+    },
+    {
+        "Codigo": 407,
+        "Nombre": "PUNTA MONTADA",
+        "Marca": "TYROLIT",
+        "Cantidad": 7,
+        "Precio": 5.974
+    },
+    {
+        "Codigo": 408,
+        "Nombre": "QUITA SARRO",
+        "Marca": "TF3",
+        "Cantidad": 5,
+        "Precio": 1.905
+    },
+    {
+        "Codigo": 409,
+        "Nombre": "RASTR SIN RIENDA",
+        "Marca": "FERCAS",
+        "Cantidad": 10,
+        "Precio": 6.638
+    },
+    {
+        "Codigo": 410,
+        "Nombre": "RASTR CON RIENDA",
+        "Marca": "FERCAS",
+        "Cantidad": 10,
+        "Precio": 8.355
+    },
+    {
+        "Codigo": 411,
+        "Nombre": "REGULADOR GAS/NAT",
+        "Marca": "PAZ",
+        "Cantidad": 10,
+        "Precio": 47.103
+    },
+    {
+        "Codigo": 412,
+        "Nombre": "REJILLA",
+        "Marca": "VITAL GAS",
+        "Cantidad": 11,
+        "Precio": 1.294
+    },
+    {
+        "Codigo": 413,
+        "Nombre": "REMACHADORA",
+        "Marca": "ARGENRAP",
+        "Cantidad": 6,
+        "Precio": 13.201
+    },
+    {
+        "Codigo": 414,
+        "Nombre": "REMACHE RAPIDO",
+        "Marca": "ARGENRAP",
+        "Cantidad": 4,
+        "Precio": 12.644
+    },
+    {
+        "Codigo": 415,
+        "Nombre": "REMOVEDOR",
+        "Marca": "VENIER",
+        "Cantidad": 12,
+        "Precio": 15.563
+    },
+    {
+        "Codigo": 416,
+        "Nombre": "REPUES PIST ENCOL",
+        "Marca": "TF3",
+        "Cantidad": 4,
+        "Precio": 27.145
+    },
+    {
+        "Codigo": 417,
+        "Nombre": "RESINA",
+        "Marca": "FORTEX",
+        "Cantidad": 3,
+        "Precio": 103.204
+    },
+    {
+        "Codigo": 418,
+        "Nombre": "RESISTENCIA",
+        "Marca": "VITAL GAS",
+        "Cantidad": 6,
+        "Precio": 2.958
+    },
+    {
+        "Codigo": 419,
+        "Nombre": "RESPALDO CON PA\u00c3\u2018O",
+        "Marca": "PAINTROLER",
+        "Cantidad": 3,
+        "Precio": 3.475
+    },
+    {
+        "Codigo": 420,
+        "Nombre": "RESPALDO NYLON",
+        "Marca": "HUNTER",
+        "Cantidad": 5,
+        "Precio": 50
+    },
+    {
+        "Codigo": 421,
+        "Nombre": "RETEN",
+        "Marca": "ELESCUERZO",
+        "Cantidad": 10,
+        "Precio": 8.287
+    },
+    {
+        "Codigo": 422,
+        "Nombre": "PISCINA",
+        "Marca": "PREMIER",
+        "Cantidad": 3,
+        "Precio": 24.049
+    },
+    {
+        "Codigo": 423,
+        "Nombre": "RIEL MENSULA",
+        "Marca": "SC",
+        "Cantidad": 5,
+        "Precio": 4.354
+    },
+    {
+        "Codigo": 424,
+        "Nombre": "ROD. LANA SINT",
+        "Marca": "PAINTROLER",
+        "Cantidad": 3,
+        "Precio": 1.96
+    },
+    {
+        "Codigo": 425,
+        "Nombre": "RODIL. POLIESTER",
+        "Marca": "PAINTROLER",
+        "Cantidad": 6,
+        "Precio": 1.488
+    },
+    {
+        "Codigo": 426,
+        "Nombre": "ROD. LANA NATURAL",
+        "Marca": "PAINTROLER",
+        "Cantidad": 5,
+        "Precio": 1.679
+    },
+    {
+        "Codigo": 427,
+        "Nombre": "ROD. EPOXI",
+        "Marca": "PAINTROLER",
+        "Cantidad": 8,
+        "Precio": 1.897
+    },
+    {
+        "Codigo": 428,
+        "Nombre": "RODILLO",
+        "Marca": "NEIKE",
+        "Cantidad": 12,
+        "Precio": 3.854
+    },
+    {
+        "Codigo": 429,
+        "Nombre": "ROLDANA",
+        "Marca": "TOTH",
+        "Cantidad": 2,
+        "Precio": 14.111
+    },
+    {
+        "Codigo": 430,
+        "Nombre": "RUEDA RECTA",
+        "Marca": "TYROLIT",
+        "Cantidad": 9,
+        "Precio": 19.002
+    },
+    {
+        "Codigo": 431,
+        "Nombre": "S.O.S.",
+        "Marca": "KUWAIT",
+        "Cantidad": 9,
+        "Precio": 9.194
+    },
+    {
+        "Codigo": 432,
+        "Nombre": "SOPORTE BRACKET",
+        "Marca": "SC",
+        "Cantidad": 6,
+        "Precio": 18.96
+    },
+    {
+        "Codigo": 433,
+        "Nombre": "SAL DE LIMON",
+        "Marca": "VENIER",
+        "Cantidad": 8,
+        "Precio": 6.743
+    },
+    {
+        "Codigo": 434,
+        "Nombre": "SAPITO",
+        "Marca": "VITAL GAS",
+        "Cantidad": 2,
+        "Precio": 744
+    },
+    {
+        "Codigo": 435,
+        "Nombre": "SELLADOR SILICONA",
+        "Marca": "FORTEX",
+        "Cantidad": 10,
+        "Precio": 2.832
+    },
+    {
+        "Codigo": 436,
+        "Nombre": "SELLADOR",
+        "Marca": "DOBLE A",
+        "Cantidad": 3,
+        "Precio": 7.329
+    },
+    {
+        "Codigo": 437,
+        "Nombre": "SELLADOR DE ROSCA",
+        "Marca": "TF3",
+        "Cantidad": 4,
+        "Precio": 1.146
+    },
+    {
+        "Codigo": 438,
+        "Nombre": "SELLADOR ROSCAS",
+        "Marca": "DUKE",
+        "Cantidad": 5,
+        "Precio": 3.59
+    },
+    {
+        "Codigo": 439,
+        "Nombre": "SERRUCHO",
+        "Marca": "STA. JUANA",
+        "Cantidad": 3,
+        "Precio": 12.073
+    },
+    {
+        "Codigo": 440,
+        "Nombre": "SIERRA CIRCULAR",
+        "Marca": "SIN-PAR",
+        "Cantidad": 7,
+        "Precio": 86.484
+    },
+    {
+        "Codigo": 441,
+        "Nombre": "SIERRA WIDIA",
+        "Marca": "RHEIN",
+        "Cantidad": 12,
+        "Precio": 3.929
+    },
+    {
+        "Codigo": 442,
+        "Nombre": "SIFON",
+        "Marca": "DUKE",
+        "Cantidad": 3,
+        "Precio": 3.304
+    },
+    {
+        "Codigo": 443,
+        "Nombre": "SIMIL MADERA",
+        "Marca": "VENIER",
+        "Cantidad": 6,
+        "Precio": 36.813
+    },
+    {
+        "Codigo": 447,
+        "Nombre": "SOPORTE ESTANTE",
+        "Marca": "MERRELS",
+        "Cantidad": 11,
+        "Precio": 1.803
+    },
+    {
+        "Codigo": 448,
+        "Nombre": "SOPORTE LATERAL",
+        "Marca": "SC",
+        "Cantidad": 10,
+        "Precio": 25.361
+    },
+    {
+        "Codigo": 449,
+        "Nombre": "SOPORTE MIC/ONDAS",
+        "Marca": "SC",
+        "Cantidad": 12,
+        "Precio": 15.837
+    },
+    {
+        "Codigo": 450,
+        "Nombre": "SOGA ELASTICA",
+        "Marca": "TENSIL",
+        "Cantidad": 11,
+        "Precio": 419
+    },
+    {
+        "Codigo": 451,
+        "Nombre": "SOGA JASPEADA",
+        "Marca": "SELSA",
+        "Cantidad": 9,
+        "Precio": 21.018
+    },
+    {
+        "Codigo": 452,
+        "Nombre": "SOGA POLIETILENO",
+        "Marca": "NAVEGANTE",
+        "Cantidad": 12,
+        "Precio": 13.428
+    },
+    {
+        "Codigo": 453,
+        "Nombre": "SOGA NYLON",
+        "Marca": "SELSA",
+        "Cantidad": 7,
+        "Precio": 416.13
+    },
+    {
+        "Codigo": 454,
+        "Nombre": "SOGA REVESTIDA",
+        "Marca": "TECNOTEX",
+        "Cantidad": 12,
+        "Precio": 36.661
+    },
+    {
+        "Codigo": 455,
+        "Nombre": "SOGA TRENZADA",
+        "Marca": "TENSIL",
+        "Cantidad": 2,
+        "Precio": 59
+    },
+    {
+        "Codigo": 456,
+        "Nombre": "SOPORTE V/CHATA",
+        "Marca": "SABELCORT",
+        "Cantidad": 3,
+        "Precio": 31.684
+    },
+    {
+        "Codigo": 457,
+        "Nombre": "SOPLETE PISTOLA",
+        "Marca": "ALIGAS",
+        "Cantidad": 10,
+        "Precio": 11.612
+    },
+    {
+        "Codigo": 458,
+        "Nombre": "SOPAPA",
+        "Marca": "VITAL GAS",
+        "Cantidad": 2,
+        "Precio": 684
+    },
+    {
+        "Codigo": 459,
+        "Nombre": "SOPLETE C/MART",
+        "Marca": "ALIGAS",
+        "Cantidad": 2,
+        "Precio": 20.291
+    },
+    {
+        "Codigo": 460,
+        "Nombre": "SOPLETE S/MART",
+        "Marca": "ALIGAS",
+        "Cantidad": 4,
+        "Precio": 11.451
+    },
+    {
+        "Codigo": 461,
+        "Nombre": "SOPLETE MEMBRANA",
+        "Marca": "ALIGAS",
+        "Cantidad": 8,
+        "Precio": 13.508
+    },
+    {
+        "Codigo": 462,
+        "Nombre": "SOPORTE MENSULA",
+        "Marca": "SABELCORT",
+        "Cantidad": 2,
+        "Precio": 1.879
+    },
+    {
+        "Codigo": 463,
+        "Nombre": "SOPORTE ZAM",
+        "Marca": "ALEX",
+        "Cantidad": 12,
+        "Precio": 1.136
+    },
+    {
+        "Codigo": 464,
+        "Nombre": "SOPORTE AIR",
+        "Marca": "SC",
+        "Cantidad": 4,
+        "Precio": 13.041
+    },
+    {
+        "Codigo": 465,
+        "Nombre": "SOPORTE BARRAL",
+        "Marca": "ALEX",
+        "Cantidad": 12,
+        "Precio": 5.101
+    },
+    {
+        "Codigo": 466,
+        "Nombre": "SOPORTE CONCODO",
+        "Marca": "SABELCORT",
+        "Cantidad": 8,
+        "Precio": 2.278
+    },
+    {
+        "Codigo": 467,
+        "Nombre": "SOPORTE C/OVALADO",
+        "Marca": "SABELCORT",
+        "Cantidad": 7,
+        "Precio": 492
+    },
+    {
+        "Codigo": 468,
+        "Nombre": "SOPORTE LUQUE",
+        "Marca": "SABELCORT",
+        "Cantidad": 9,
+        "Precio": 1.066
+    },
+    {
+        "Codigo": 469,
+        "Nombre": "SOPORTE PLACARD",
+        "Marca": "SABELCORT",
+        "Cantidad": 2,
+        "Precio": 427
+    },
+    {
+        "Codigo": 470,
+        "Nombre": "PARQUER",
+        "Marca": "PROLL",
+        "Cantidad": 4,
+        "Precio": 591
+    },
+    {
+        "Codigo": 471,
+        "Nombre": "TARUGO L/HUECO",
+        "Marca": "CRECCHIO",
+        "Cantidad": 3,
+        "Precio": 3.066
+    },
+    {
+        "Codigo": 472,
+        "Nombre": "TABLON ANDAMIO",
+        "Marca": "DUROLL",
+        "Cantidad": 10,
+        "Precio": 109.245
+    },
+    {
+        "Codigo": 473,
+        "Nombre": "TALADRO",
+        "Marca": "EZETA",
+        "Cantidad": 8,
+        "Precio": 288.166
+    },
+    {
+        "Codigo": 474,
+        "Nombre": "TANZA ALBANIL",
+        "Marca": "GRILON",
+        "Cantidad": 9,
+        "Precio": 2.435
+    },
+    {
+        "Codigo": 475,
+        "Nombre": "TANZA PESCA",
+        "Marca": "GRILON",
+        "Cantidad": 10,
+        "Precio": 803
+    },
+    {
+        "Codigo": 478,
+        "Nombre": "TARUGO 3 COR CAJA",
+        "Marca": "CRECCHIO",
+        "Cantidad": 2,
+        "Precio": 4.048
+    },
+    {
+        "Codigo": 479,
+        "Nombre": "TARU EN BOLSA ARA",
+        "Marca": "CRECCHIO",
+        "Cantidad": 6,
+        "Precio": 24.439
+    },
+    {
+        "Codigo": 480,
+        "Nombre": "TARUGO EN CAJA",
+        "Marca": "CRECCHIO",
+        "Cantidad": 5,
+        "Precio": 11.653
+    },
+    {
+        "Codigo": 481,
+        "Nombre": "TARUGO 3 COR BOLS",
+        "Marca": "CRECCHIO",
+        "Cantidad": 7,
+        "Precio": 36.356
+    },
+    {
+        "Codigo": 482,
+        "Nombre": "TARUGO ARANDELA",
+        "Marca": "CRECCHIO",
+        "Cantidad": 11,
+        "Precio": 2.067
+    },
+    {
+        "Codigo": 483,
+        "Nombre": "TARUGO EN BOLSA",
+        "Marca": "CRECCHIO",
+        "Cantidad": 5,
+        "Precio": 6.5
+    },
+    {
+        "Codigo": 484,
+        "Nombre": "TARUGO P/DURLOCK",
+        "Marca": "CRECCHIO",
+        "Cantidad": 5,
+        "Precio": 2.81
+    },
+    {
+        "Codigo": 485,
+        "Nombre": "TEJIDO MOSQUI PLA",
+        "Marca": "SOLYON",
+        "Cantidad": 10,
+        "Precio": 4.014
+    },
+    {
+        "Codigo": 486,
+        "Nombre": "TEFLON",
+        "Marca": "GOLDFLON",
+        "Cantidad": 5,
+        "Precio": 669
+    },
+    {
+        "Codigo": 487,
+        "Nombre": "TEJIDO CERRAMIENT",
+        "Marca": "SOLYON",
+        "Cantidad": 9,
+        "Precio": 5.786
+    },
+    {
+        "Codigo": 488,
+        "Nombre": "TEJIDO EXAGONAL",
+        "Marca": "CHINASOL",
+        "Cantidad": 4,
+        "Precio": 4.858
+    },
+    {
+        "Codigo": 489,
+        "Nombre": "TEJIDO ALUMINIO",
+        "Marca": "CHINASOL",
+        "Cantidad": 6,
+        "Precio": 5.561
+    },
+    {
+        "Codigo": 490,
+        "Nombre": "TEJIDO MOSQUITERO",
+        "Marca": "CHINASOL",
+        "Cantidad": 8,
+        "Precio": 6.903
+    },
+    {
+        "Codigo": 491,
+        "Nombre": "TEJIDO GALV",
+        "Marca": "CHINASOL",
+        "Cantidad": 7,
+        "Precio": 12.401
+    },
+    {
+        "Codigo": 492,
+        "Nombre": "TELA ESMERIL",
+        "Marca": "DOBLE A",
+        "Cantidad": 9,
+        "Precio": 2.041
+    },
+    {
+        "Codigo": 493,
+        "Nombre": "TENAZA",
+        "Marca": "METZ",
+        "Cantidad": 10,
+        "Precio": 11.006
+    },
+    {
+        "Codigo": 494,
+        "Nombre": "TENDEDERO",
+        "Marca": "SABELCORT",
+        "Cantidad": 4,
+        "Precio": 29.926
+    },
+    {
+        "Codigo": 495,
+        "Nombre": "TENSOR",
+        "Marca": "TOTH",
+        "Cantidad": 3,
+        "Precio": 1.93
+    },
+    {
+        "Codigo": 496,
+        "Nombre": "TERMINAL",
+        "Marca": "SABELCORT",
+        "Cantidad": 11,
+        "Precio": 16.074
+    },
+    {
+        "Codigo": 498,
+        "Nombre": "TERRAJA",
+        "Marca": "NEIKE",
+        "Cantidad": 9,
+        "Precio": 8.743
+    },
+    {
+        "Codigo": 501,
+        "Nombre": "TEXTURADOR",
+        "Marca": "VENIER",
+        "Cantidad": 4,
+        "Precio": 76.981
+    },
+    {
+        "Codigo": 502,
+        "Nombre": "THINNER",
+        "Marca": "VENIER",
+        "Cantidad": 2,
+        "Precio": 3.498
+    },
+    {
+        "Codigo": 504,
+        "Nombre": "TIJERA CERCO",
+        "Marca": "FERCAS",
+        "Cantidad": 8,
+        "Precio": 20.693
+    },
+    {
+        "Codigo": 505,
+        "Nombre": "TIJERA PODAR",
+        "Marca": "GHERARDI",
+        "Cantidad": 4,
+        "Precio": 19.517
+    },
+    {
+        "Codigo": 506,
+        "Nombre": "TIJERA",
+        "Marca": "STA. JUANA",
+        "Cantidad": 8,
+        "Precio": 11.704
+    },
+    {
+        "Codigo": 507,
+        "Nombre": "TINTA COLOR",
+        "Marca": "VENIER",
+        "Cantidad": 2,
+        "Precio": 9.583
+    },
+    {
+        "Codigo": 508,
+        "Nombre": "TIRAFONDO",
+        "Marca": "PROLL",
+        "Cantidad": 10,
+        "Precio": 704
+    },
+    {
+        "Codigo": 509,
+        "Nombre": "TORNILLO DRYWALL",
+        "Marca": "RAPTOR",
+        "Cantidad": 9,
+        "Precio": 2.305
+    },
+    {
+        "Codigo": 510,
+        "Nombre": "TORNILLO HEXAGON",
+        "Marca": "RAPTOR",
+        "Cantidad": 6,
+        "Precio": 10.22
+    },
+    {
+        "Codigo": 511,
+        "Nombre": "TORNILLO PANFRAMI",
+        "Marca": "RAPTOR",
+        "Cantidad": 5,
+        "Precio": 2.345
+    },
+    {
+        "Codigo": 512,
+        "Nombre": "TORNILLO TANQUE",
+        "Marca": "PROLL",
+        "Cantidad": 6,
+        "Precio": 1.499
+    },
+    {
+        "Codigo": 513,
+        "Nombre": "TOPE CORTINA",
+        "Marca": "SIRA",
+        "Cantidad": 5,
+        "Precio": 636
+    },
+    {
+        "Codigo": 514,
+        "Nombre": "TORN. BRONCE",
+        "Marca": "VIALRO",
+        "Cantidad": 12,
+        "Precio": 23
+    },
+    {
+        "Codigo": 515,
+        "Nombre": "TORNILLO",
+        "Marca": "GHERARDI",
+        "Cantidad": 3,
+        "Precio": 2.494
+    },
+    {
+        "Codigo": 516,
+        "Nombre": "TORNILLO FIX",
+        "Marca": "PROLL",
+        "Cantidad": 2,
+        "Precio": 196
+    },
+    {
+        "Codigo": 517,
+        "Nombre": "TORN. HIERRO",
+        "Marca": "PROLL",
+        "Cantidad": 3,
+        "Precio": 299
+    },
+    {
+        "Codigo": 518,
+        "Nombre": "TUERCA CONEXION",
+        "Marca": "ALEX",
+        "Cantidad": 9,
+        "Precio": 1.771
+    },
+    {
+        "Codigo": 519,
+        "Nombre": "TUERCA HEXAONAL",
+        "Marca": "PROLL",
+        "Cantidad": 10,
+        "Precio": 2.19
+    },
+    {
+        "Codigo": 520,
+        "Nombre": "VALVULA PLASTICA",
+        "Marca": "DUKE",
+        "Cantidad": 4,
+        "Precio": 6.194
+    },
+    {
+        "Codigo": 521,
+        "Nombre": "VALVULA METAL",
+        "Marca": "DUKE",
+        "Cantidad": 9,
+        "Precio": 28.642
+    },
+    {
+        "Codigo": 522,
+        "Nombre": "VALVULA BRONCE",
+        "Marca": "LATYN",
+        "Cantidad": 10,
+        "Precio": 6.907
+    },
+    {
+        "Codigo": 500,
+        "Nombre": "CABLE 8MM",
+        "Marca": "SICA",
+        "Cantidad": 10,
+        "Precio": 1000
+    },
+    {
+        "Codigo": 600,
+        "Nombre": "CABLE 5MM",
+        "Marca": "SICA",
+        "Cantidad": 10,
+        "Precio": 1000
+    },
+    {
+        "Codigo": 501,
+        "Nombre": "CABLE 10MM",
+        "Marca": "SICA",
+        "Cantidad": 6,
+        "Precio": 1400
+    },
+    {
+        "Codigo": 34567,
+        "Nombre": "nuevo",
+        "Marca": "sica",
+        "Cantidad": 23,
+        "Precio": 345
+    }
+]

@@ -1,0 +1,466 @@
+[
+    {
+        "id_pelicula": 1,
+        "titulo": "Cadena perpetua",
+        "anio": 1994,
+        "clasificacion": "+16",
+        "categoria": "Drama"
+    },
+    {
+        "id_pelicula": 2,
+        "titulo": "El padrino",
+        "anio": 1972,
+        "clasificacion": "+16",
+        "categoria": "Drama"
+    },
+    {
+        "id_pelicula": 7,
+        "titulo": "El club de la pelea",
+        "anio": 1999,
+        "clasificacion": "+16",
+        "categoria": "Drama"
+    },
+    {
+        "id_pelicula": 8,
+        "titulo": "Forrest Gump",
+        "anio": 1994,
+        "clasificacion": "+13",
+        "categoria": "Drama"
+    },
+    {
+        "id_pelicula": 13,
+        "titulo": "Titanic",
+        "anio": 1997,
+        "clasificacion": "+13",
+        "categoria": "Drama"
+    },
+    {
+        "id_pelicula": 14,
+        "titulo": "Regreso al futuro",
+        "anio": 1985,
+        "clasificacion": "ATP",
+        "categoria": "Aventura"
+    },
+    {
+        "id_pelicula": 15,
+        "titulo": "Sexto sentido",
+        "anio": 1999,
+        "clasificacion": "+13",
+        "categoria": "Drama"
+    },
+    {
+        "id_pelicula": 16,
+        "titulo": "El club de los poetas muertos",
+        "anio": 1989,
+        "clasificacion": "+16",
+        "categoria": "Drama"
+    },
+    {
+        "id_pelicula": 17,
+        "titulo": "Psicosis",
+        "anio": 1960,
+        "clasificacion": "+16",
+        "categoria": "Suspenso"
+    },
+    {
+        "id_pelicula": 19,
+        "titulo": "Memento",
+        "anio": 2000,
+        "clasificacion": "+16",
+        "categoria": "Suspenso"
+    },
+    {
+        "id_pelicula": 20,
+        "titulo": "Interestelar",
+        "anio": 2014,
+        "clasificacion": "+13",
+        "categoria": "Aventura"
+    },
+    {
+        "id_pelicula": 22,
+        "titulo": "El efecto mariposa",
+        "anio": 2004,
+        "clasificacion": "+16",
+        "categoria": "Drama"
+    },
+    {
+        "id_pelicula": 24,
+        "titulo": "La La Land",
+        "anio": 2016,
+        "clasificacion": "+13",
+        "categoria": "Comedia"
+    },
+    {
+        "id_pelicula": 25,
+        "titulo": "Volver al futuro",
+        "anio": 1985,
+        "clasificacion": "+7",
+        "categoria": "Aventura"
+    },
+    {
+        "id_pelicula": 26,
+        "titulo": "El club de la pelea",
+        "anio": 1999,
+        "clasificacion": "+16",
+        "categoria": "Drama"
+    },
+    {
+        "id_pelicula": 27,
+        "titulo": "Coco",
+        "anio": 2017,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 28,
+        "titulo": "El show de Truman",
+        "anio": 1998,
+        "clasificacion": "+7",
+        "categoria": "Comedia"
+    },
+    {
+        "id_pelicula": 29,
+        "titulo": "El viaje de Chihiro",
+        "anio": 2001,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 31,
+        "titulo": "Casablanca",
+        "anio": "1948",
+        "clasificacion": "+7",
+        "categoria": "Drama",
+        "categorria": "Drama"
+    },
+    {
+        "id_pelicula": 32,
+        "titulo": "Toy Story",
+        "anio": 1995,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 35,
+        "titulo": "Cantando bajo la lluvia",
+        "anio": 1952,
+        "clasificacion": "ATP",
+        "categoria": "Comedia"
+    },
+    {
+        "id_pelicula": 36,
+        "titulo": "Rocky",
+        "anio": 1976,
+        "clasificacion": "+7",
+        "categoria": "Drama"
+    },
+    {
+        "id_pelicula": 38,
+        "titulo": "Danza con lobos",
+        "anio": 1990,
+        "clasificacion": "+13",
+        "categoria": "Aventura"
+    },
+    {
+        "id_pelicula": 41,
+        "titulo": "Amelie",
+        "anio": 2001,
+        "clasificacion": "+16",
+        "categoria": "Comedia"
+    },
+    {
+        "id_pelicula": 42,
+        "titulo": "Frozen: Una aventura congelada",
+        "anio": 2013,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 43,
+        "titulo": "Toy Story 4",
+        "anio": 2019,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 44,
+        "titulo": "Zootopia",
+        "anio": 2016,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 45,
+        "titulo": "Los increibles 2",
+        "anio": 2018,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 46,
+        "titulo": "Buscando a Dory",
+        "anio": 2016,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 47,
+        "titulo": "Sing",
+        "anio": 2016,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 48,
+        "titulo": "Minions",
+        "anio": 2015,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 50,
+        "titulo": "Moana: Un mar de aventuras",
+        "anio": 2016,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 51,
+        "titulo": "Intensamente",
+        "anio": 2015,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 53,
+        "titulo": "Jumanji: Bienvenidos a la jungla",
+        "anio": 2017,
+        "clasificacion": "+13",
+        "categoria": "Aventura"
+    },
+    {
+        "id_pelicula": 54,
+        "titulo": "Hotel Transylvania 3: Monstruos de vacaciones",
+        "anio": 2018,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 55,
+        "titulo": "La vida secreta de tus mascotas",
+        "anio": 2016,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 56,
+        "titulo": "Trolls",
+        "anio": 2016,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 58,
+        "titulo": "Mi villano favorito 3",
+        "anio": 2017,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 60,
+        "titulo": "Los increibles 2",
+        "anio": 2018,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 61,
+        "titulo": "Toy Story",
+        "anio": 1995,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 62,
+        "titulo": "Bichos: Una aventura en miniatura",
+        "anio": 1998,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 63,
+        "titulo": "Toy Story 2",
+        "anio": 1999,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 64,
+        "titulo": "Monsters, Inc.",
+        "anio": 2001,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 65,
+        "titulo": "Buscando a Nemo",
+        "anio": 2003,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 66,
+        "titulo": "Los Increibles",
+        "anio": 2004,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 67,
+        "titulo": "Cars: Una aventura sobre ruedas",
+        "anio": 2006,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 68,
+        "titulo": "Ratatouille",
+        "anio": 2007,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 69,
+        "titulo": "WALL E",
+        "anio": 2008,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 70,
+        "titulo": "Up",
+        "anio": 2009,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 71,
+        "titulo": "Toy Story 3",
+        "anio": 2010,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 72,
+        "titulo": "Cars 2",
+        "anio": 2011,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 73,
+        "titulo": "Valiente",
+        "anio": 2012,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 74,
+        "titulo": "Monsters University",
+        "anio": 2013,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 75,
+        "titulo": "El viaje de Arlo",
+        "anio": 2015,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 76,
+        "titulo": "Buscando a Dory",
+        "anio": 2016,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 77,
+        "titulo": "Cars 3",
+        "anio": 2017,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 78,
+        "titulo": "Unidos",
+        "anio": 2020,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 79,
+        "titulo": "Soul",
+        "anio": 2020,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 80,
+        "titulo": "Luca",
+        "anio": 2021,
+        "clasificacion": "ATP",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 81,
+        "titulo": "La era del hielo",
+        "anio": 2011,
+        "clasificacion": "ATP",
+        "categoria": "Animacion"
+    },
+    {
+        "id_pelicula": 83,
+        "titulo": "Lapacho",
+        "anio": "2015",
+        "clasificacion": "+13",
+        "categoria": "Comedia",
+        "categorria": "sus"
+    },
+    {
+        "id_pelicula": 100,
+        "titulo": "Los piratas del Caribe",
+        "anio": 2003,
+        "clasificacion": "+13",
+        "categoria": "Aventura"
+    },
+    {
+        "id_pelicula": 30,
+        "titulo": "Informe Pelicano",
+        "anio": 2005,
+        "clasificacion": "+16",
+        "categoria": "Drama"
+    },
+    {
+        "id_pelicula": 110,
+        "titulo": "Tierra Esmeralda",
+        "anio": 2021,
+        "clasificacion": "+13",
+        "categoria": "Aventura"
+    },
+    {
+        "id_pelicula": 32,
+        "titulo": "Alfonso",
+        "anio": 2011,
+        "clasificacion": "+7",
+        "categoria": "Infantil"
+    },
+    {
+        "id_pelicula": 150,
+        "titulo": "Harry Potter",
+        "anio": 2014,
+        "clasificacion": "+16",
+        "categoria": "Aventura"
+    }
+]

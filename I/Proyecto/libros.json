@@ -1,0 +1,58 @@
+[
+    {
+        "titulo": "El banquete",
+        "autor": "Plat\u00c3\u00b3n",
+        "genero": "Filosof\u00c3\u00ada",
+        "precio": 20000,
+        "cantidad": 10
+    },
+    {
+        "titulo": "Cementerio de animales",
+        "autor": "Stephen King",
+        "genero": "Misterio",
+        "precio": 35000,
+        "cantidad": 5
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "genero": "Romance",
+        "precio": 15000,
+        "cantidad": 1
+    },
+    {
+        "titulo": "20.000 leguas de viaje submarino",
+        "autor": "Julio Verne",
+        "genero": "Ficcion",
+        "precio": 25000,
+        "cantidad": 9
+    },
+    {
+        "titulo": "El conde de Montecristo",
+        "autor": "Alexandre Dumas",
+        "genero": "Ficcion",
+        "precio": 40000,
+        "cantidad": 8
+    },
+    {
+        "titulo": "Dracula",
+        "autor": "Bram Stoker",
+        "genero": "Terror",
+        "precio": 55000,
+        "cantidad": 12
+    },
+    {
+        "titulo": "juanito y los clonosaurios",
+        "autor": "apu",
+        "genero": "ficcion",
+        "precio": 3000,
+        "cantidad": 13
+    },
+    {
+        "titulo": "otro",
+        "autor": "",
+        "genero": "terror",
+        "precio": 56555,
+        "cantidad": 32
+    }
+]

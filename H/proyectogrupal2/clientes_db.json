@@ -1,0 +1,66 @@
+[
+    {
+        "dni": 1235,
+        "nombre": "Laura",
+        "email": "laura@gmail.com",
+        "telefono": 555555,
+        "profesion": "Maestra",
+        "disponibilidad": "Full Time"
+    },
+    {
+        "dni": 4444,
+        "nombre": "Martin Lopez",
+        "email": "mlopez@gmail.com",
+        "telefono": 343434,
+        "profesion": "Martillero",
+        "disponibilidad": "Part Time"
+    },
+    {
+        "dni": 1020,
+        "nombre": "Sara Iglesias",
+        "email": "siglesias@gmail.com",
+        "telefono": 15437689,
+        "profesion": "decoradora",
+        "disponibilidad": "part time"
+    },
+    {
+        "dni": 2030,
+        "nombre": "Tomas Perez",
+        "email": "perezt@hotmail.com",
+        "telefono": 15986754,
+        "profesion": "seguridad",
+        "disponibilidad": "full time"
+    },
+    {
+        "dni": 3040,
+        "nombre": "Maria Jofre",
+        "email": "mfrjof@gmail.com",
+        "telefono": 15098532,
+        "profesion": "analista sistema",
+        "disponibilidad": "part time"
+    },
+    {
+        "dni": 9087,
+        "nombre": "Ines Escudero",
+        "email": "ineses@gmail.com",
+        "telefono": 159876543,
+        "profesion": "ingeniera",
+        "disponibilidad": "full time"
+    },
+    {
+        "dni": 9899,
+        "nombre": "Marisa Gomez",
+        "email": "marisa@gmail.com",
+        "telefono": 787878,
+        "profesion": "Fotografa",
+        "disponibilidad": "Part time"
+    },
+    {
+        "dni": "221",
+        "nombre": "Fer",
+        "email": "sss",
+        "telefono": "3333",
+        "profesion": "Sdsd",
+        "disponibilidad": "S"
+    }
+]
